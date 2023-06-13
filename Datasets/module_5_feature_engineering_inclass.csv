@@ -1,0 +1,1001 @@
+user_id,age,signup_date,last_purchase_date,total_purchases,total_spent,favorite_product_category,location,gender,email_domain
+1,33,1978-11-01 17:03,2020-05-11 4:13,10,840.9549925,books,Lake Gerald,female,gmail.com
+2,32,2016-04-08 14:19,1959-01-07 5:45,2,1147.412095,books,North Justinburgh,male,yahoo.com
+3,19,2021-03-08 7:01,2006-10-29 16:56,6,1301.284835,books,West Alec,female,yahoo.com
+4,48,2006-01-11 11:04,1966-07-01 20:22,8,1404.261405,books,Annaton,male,hotmail.com
+5,75,1985-06-16 1:41,2013-05-14 12:44,3,1968.752964,books,East Markburgh,female,yahoo.com
+6,76,1960-02-12 12:06,1996-10-02 14:24,46,1901.805183,home,Port Melanie,female,yahoo.com
+7,53,1987-01-08 0:35,1974-05-06 13:57,34,171.2260084,electronics,West Erin,female,yahoo.com
+8,57,1979-12-24 5:37,2008-09-10 15:42,18,1739.610644,electronics,Antonioview,female,yahoo.com
+9,52,1980-12-22 23:02,1986-02-03 5:05,49,1069.404308,clothing,Cynthiaville,male,gmail.com
+10,27,1995-03-21 4:45,1998-08-03 8:17,45,1198.763055,books,Tarahaven,female,yahoo.com
+11,43,2009-04-23 16:43,1950-08-24 22:02,23,112.1120496,home,Sharibury,male,hotmail.com
+12,20,1957-08-04 14:04,1955-01-30 18:05,6,1487.462053,clothing,South Ellen,male,yahoo.com
+13,33,1972-02-11 13:36,2010-12-15 7:08,2,298.2282109,books,West Ericaburgh,male,hotmail.com
+14,50,1952-03-01 4:25,2005-02-15 19:51,19,375.4170761,beauty,Lake Chad,female,yahoo.com
+15,27,1991-03-15 9:20,1988-12-22 0:46,8,1051.32015,electronics,Christensentown,female,yahoo.com
+16,56,1965-09-14 13:43,1986-05-14 14:35,14,77.46066961,electronics,West Eric,male,hotmail.com
+17,29,2006-08-26 4:30,1966-07-14 11:13,35,411.1779095,books,Kristenchester,female,gmail.com
+18,78,2018-05-09 8:13,1979-04-26 13:25,26,373.6817425,electronics,Willieport,male,yahoo.com
+19,61,1959-12-15 9:52,2005-08-14 23:56,47,1424.980954,clothing,Lake Joe,female,yahoo.com
+20,26,1952-12-22 7:13,2011-01-11 1:54,25,1195.31105,books,Martinfort,female,yahoo.com
+21,51,1952-10-28 14:57,1957-09-22 20:13,27,1486.049323,books,Johnside,female,yahoo.com
+22,34,1963-03-09 9:32,1958-09-29 8:22,35,199.6856936,beauty,North Sharonfort,male,gmail.com
+23,57,1968-03-04 23:23,2020-08-16 7:27,21,485.7978152,books,West Jonathon,female,gmail.com
+24,30,2011-06-20 3:06,1980-12-29 2:31,26,1569.178924,books,South Alexton,male,hotmail.com
+25,33,2014-04-24 0:36,1963-04-28 6:32,10,341.5172648,home,South Stephaniefurt,male,yahoo.com
+26,23,1959-05-24 13:57,1982-01-31 21:19,32,74.9233292,beauty,Port Ashley,female,gmail.com
+27,33,1996-10-20 22:50,1977-08-11 6:21,23,1859.831045,beauty,Vangfort,female,yahoo.com
+28,75,1960-05-18 22:14,1953-10-01 13:20,28,1359.311182,home,North Michellefurt,male,yahoo.com
+29,70,2006-02-07 11:59,2021-07-22 7:55,17,734.5457705,beauty,Jamesside,female,hotmail.com
+30,46,1993-05-01 3:38,1985-08-26 2:54,33,1538.386409,electronics,West Ashley,female,hotmail.com
+31,56,1982-08-14 11:48,2009-01-07 8:28,20,1625.904627,electronics,Lake Elizabeth,male,hotmail.com
+32,64,1997-05-16 20:37,1982-06-18 5:39,41,153.2589948,home,North Tyler,female,yahoo.com
+33,54,1998-08-08 10:36,1950-06-27 16:29,44,1750.161166,books,East Jimmy,male,hotmail.com
+34,46,1974-03-08 2:08,1988-05-12 23:56,23,1027.26601,clothing,New Keithtown,female,gmail.com
+35,70,1962-06-11 3:59,2011-11-21 2:19,20,393.1159021,beauty,Kathleenville,female,hotmail.com
+36,55,1959-01-14 19:59,2011-08-19 12:44,31,388.7987381,books,Janicemouth,female,yahoo.com
+37,32,1975-08-21 16:35,2015-06-16 17:06,18,112.6127701,home,Samuelshire,male,yahoo.com
+38,34,2021-02-11 8:51,2006-03-28 1:47,13,899.2681864,home,East Danielshire,male,yahoo.com
+39,74,1954-02-23 20:58,2003-06-21 22:28,6,1898.958718,electronics,East Douglas,male,gmail.com
+40,34,1959-01-24 11:28,1958-01-12 19:38,18,1141.611569,beauty,Jessicafort,male,hotmail.com
+41,38,1956-10-14 10:03,1988-03-02 8:55,43,1584.135216,electronics,Lisaland,female,gmail.com
+42,55,2015-01-07 10:56,2016-07-26 18:56,38,65.07431548,books,Gabriellaburgh,male,yahoo.com
+43,27,1981-07-15 21:01,2021-02-06 23:37,32,1184.410394,beauty,Bradleymouth,male,yahoo.com
+44,69,1975-10-04 4:43,1968-12-06 14:35,27,723.8740782,electronics,New Michaelland,male,yahoo.com
+45,75,1973-12-20 8:34,1991-09-18 22:32,31,1458.307726,electronics,Hunterchester,male,hotmail.com
+46,77,1970-07-26 22:10,2006-12-03 7:22,27,778.7967441,beauty,Markville,male,yahoo.com
+47,25,1976-03-17 5:24,1961-01-02 6:21,46,1233.367422,clothing,Jimenezberg,female,hotmail.com
+48,72,1953-09-15 11:39,2009-10-03 17:13,41,1521.185263,home,Nicoletown,female,gmail.com
+49,39,1985-09-29 12:01,1973-04-21 23:34,27,1012.569798,electronics,Michaelberg,male,gmail.com
+50,69,1964-11-23 14:59,1956-10-26 0:39,3,1271.076242,home,North Jenniferhaven,male,yahoo.com
+51,18,2011-06-06 9:01,1986-10-10 19:43,44,420.0982655,electronics,North Annfurt,female,hotmail.com
+52,67,2011-01-25 16:23,1988-11-07 9:53,23,1242.436295,home,East Leonardshire,female,yahoo.com
+53,25,2001-03-04 16:46,1988-09-04 7:22,49,1427.548527,home,Emmastad,male,hotmail.com
+54,39,2018-04-25 2:59,2016-01-01 17:38,45,1168.755898,books,Jacksonshire,female,gmail.com
+55,69,1972-07-06 18:57,2016-07-28 7:16,11,51.81063313,electronics,Lake Susan,male,yahoo.com
+56,51,2019-03-19 16:42,2023-05-23 2:44,44,477.2166611,home,Lake David,female,yahoo.com
+57,74,2012-04-07 16:11,1974-12-21 6:59,43,1597.642811,books,Lake Robert,male,gmail.com
+58,34,1976-08-06 11:20,2002-01-03 16:00,32,110.1020413,electronics,South Ashley,male,hotmail.com
+59,78,2013-11-07 17:58,1989-03-03 20:54,27,963.9102525,books,Port Sarahburgh,female,gmail.com
+60,66,2001-06-08 21:59,1963-01-09 7:20,33,234.1379494,books,Robertburgh,female,gmail.com
+61,73,1955-10-26 18:22,1973-03-24 13:32,37,333.3798428,electronics,Elizabethland,male,hotmail.com
+62,35,1966-03-03 15:42,2007-05-19 16:37,19,1716.286599,clothing,East Theresamouth,male,hotmail.com
+63,76,1961-04-25 21:53,1989-06-26 7:03,10,632.767944,home,South Tara,male,gmail.com
+64,47,1963-04-03 5:36,2022-05-28 7:01,12,804.807441,books,Sandrashire,female,hotmail.com
+65,22,2015-07-24 3:32,1966-05-03 14:54,4,292.0106819,home,Richardside,female,gmail.com
+66,79,2022-02-09 7:33,2002-09-18 23:20,8,1769.914238,clothing,Savannahland,female,hotmail.com
+67,54,2000-02-07 5:19,1973-12-08 5:20,33,1046.872595,clothing,Lake Leahberg,male,hotmail.com
+68,41,1996-08-27 11:48,1965-09-21 11:56,27,131.061133,electronics,Adamshaven,female,yahoo.com
+69,69,1998-07-29 13:26,1963-12-25 20:55,12,621.0947356,beauty,Youngland,female,gmail.com
+70,49,1955-09-22 11:01,1970-02-04 2:17,26,964.5258265,home,South Jeanette,male,yahoo.com
+71,45,2008-04-17 19:00,1960-10-14 11:31,3,619.0930621,home,Scottshire,female,yahoo.com
+72,18,1975-10-06 13:08,1990-05-24 13:38,9,494.5361072,beauty,Port Patriciabury,male,yahoo.com
+73,59,1982-10-12 8:50,1998-09-15 7:57,43,570.0185663,electronics,Thompsonburgh,female,hotmail.com
+74,53,1951-09-01 15:01,1963-07-27 16:07,12,101.3450507,electronics,New Patriciaside,female,hotmail.com
+75,78,1992-09-17 22:07,1960-03-10 22:40,29,1451.297722,home,Port Johnberg,male,yahoo.com
+76,40,1955-10-08 12:40,1957-05-20 0:57,25,1999.004071,books,East Amberfurt,male,yahoo.com
+77,58,1974-01-08 13:06,1951-07-17 3:47,41,791.5336695,home,Murphyville,female,hotmail.com
+78,60,1969-08-05 17:48,2000-04-12 18:29,26,1014.378843,electronics,Port Charlotteton,male,yahoo.com
+79,52,1963-05-09 11:14,1983-12-09 23:58,45,962.3036624,books,Johnport,male,gmail.com
+80,44,1950-09-19 1:21,2008-02-14 15:41,46,1165.474497,home,South Christopher,male,hotmail.com
+81,26,1990-04-12 8:35,1979-05-11 18:24,39,965.6886287,electronics,Lake Christopher,male,yahoo.com
+82,50,1963-06-12 18:19,2023-05-20 19:04,42,937.477399,electronics,Russelltown,male,yahoo.com
+83,46,2017-01-23 15:01,1989-11-15 1:02,30,881.8240038,books,Lake Sandybury,male,yahoo.com
+84,50,2010-09-25 13:40,1953-05-19 4:05,14,1409.113201,beauty,South Markton,male,yahoo.com
+85,76,1990-11-07 12:08,2001-03-23 6:41,10,278.0203458,electronics,Kristyland,male,yahoo.com
+86,79,1952-11-01 6:52,1975-12-12 18:55,35,1118.493007,beauty,Williamsview,male,yahoo.com
+87,45,2016-07-10 9:12,2006-05-10 20:17,13,957.1684144,books,Kimburgh,female,gmail.com
+88,36,1987-06-08 0:02,2001-03-06 2:42,19,329.1307851,beauty,North Nicolemouth,female,yahoo.com
+89,78,1976-01-06 9:04,1976-01-13 13:13,16,1339.684646,beauty,East Claudia,male,gmail.com
+90,23,2001-11-13 0:56,1961-02-10 4:49,41,1534.642952,beauty,West Leslietown,male,hotmail.com
+91,65,1975-04-02 21:41,2015-12-08 8:49,11,216.8705126,electronics,Port Robertmouth,female,hotmail.com
+92,67,1990-10-06 23:02,1994-11-03 8:35,46,1939.607132,beauty,West Rachelberg,female,yahoo.com
+93,60,2008-08-01 0:45,1960-07-21 9:38,3,415.2320056,electronics,Rebeccabury,male,hotmail.com
+94,27,2023-02-22 12:32,1990-07-10 2:33,11,277.4374739,books,East Mariaside,female,gmail.com
+95,36,2012-06-25 1:54,1956-03-11 10:00,1,1893.691581,beauty,North Adamstad,male,hotmail.com
+96,74,2009-06-02 0:07,1972-05-11 7:28,1,1045.440533,home,New Brandonfurt,female,hotmail.com
+97,43,1969-11-09 6:29,2018-12-22 18:57,5,1496.627569,electronics,Lake Savannah,male,yahoo.com
+98,19,2013-10-24 1:23,1956-06-12 4:45,20,882.9930796,beauty,North Annfort,female,yahoo.com
+99,35,1960-09-30 19:13,1959-04-21 0:57,47,1050.181272,electronics,East Amanda,female,yahoo.com
+100,53,1987-09-10 3:54,1972-03-18 20:20,19,1896.712833,books,Lake Rodney,female,yahoo.com
+101,57,1964-06-08 3:27,2014-05-08 18:00,42,1926.224657,electronics,South Brian,male,hotmail.com
+102,51,2011-07-05 22:53,1958-07-04 16:51,11,1819.897909,home,North Nicholas,female,hotmail.com
+103,68,2004-08-16 4:04,1969-10-15 16:45,24,957.8748324,clothing,New Andrew,male,gmail.com
+104,41,1998-03-27 7:24,2002-04-23 9:07,2,665.9938041,electronics,Port Angel,female,gmail.com
+105,71,2021-10-26 4:31,1981-01-30 18:05,15,695.5616118,electronics,North Patrick,male,gmail.com
+106,32,1984-02-01 20:39,1951-04-02 9:40,27,969.7515132,books,New Steven,female,gmail.com
+107,26,1953-09-28 1:20,1971-08-20 23:22,9,1280.594611,books,West Misty,female,hotmail.com
+108,53,2003-12-04 12:42,1963-11-18 20:40,47,1559.42486,clothing,Stacyside,male,hotmail.com
+109,23,1973-02-28 14:33,1955-05-26 22:26,48,1378.285489,beauty,South Chadfurt,male,yahoo.com
+110,78,1975-04-12 7:09,1978-08-26 5:11,49,1981.78471,beauty,Lisaton,female,hotmail.com
+111,73,1955-02-26 20:20,1951-11-26 7:26,28,53.94093919,books,Port Carlahaven,male,hotmail.com
+112,77,1966-12-24 21:04,2007-10-21 22:17,39,319.8640495,electronics,West Julie,female,gmail.com
+113,25,1996-02-23 22:37,2001-02-26 12:09,6,581.3184109,clothing,West Juan,male,yahoo.com
+114,68,1969-03-25 5:12,2022-12-10 15:56,49,1037.083193,electronics,South Sandra,female,gmail.com
+115,77,1969-04-29 13:44,1993-01-31 19:56,20,344.9085787,books,Heatherfurt,female,yahoo.com
+116,33,2003-06-05 21:05,1992-09-28 19:23,1,123.3189415,clothing,Port Brenda,male,gmail.com
+117,39,1999-12-03 14:52,1984-06-24 12:45,30,1770.465477,books,Danielleborough,male,yahoo.com
+118,29,2013-11-20 5:03,2017-09-06 3:53,18,268.0543988,electronics,North Lisaberg,female,gmail.com
+119,46,1963-08-25 5:26,1968-11-05 8:08,16,1048.319795,clothing,North Michelleshire,female,hotmail.com
+120,22,1984-10-04 17:33,2019-09-10 11:54,13,687.6747517,clothing,Davidmouth,male,hotmail.com
+121,36,2018-01-11 15:50,1989-12-25 18:31,38,491.1153155,electronics,Pollardburgh,female,gmail.com
+122,31,1998-10-08 15:51,1950-04-13 10:23,33,1723.865563,books,Port James,male,hotmail.com
+123,24,1965-12-01 22:25,1963-04-24 3:19,10,561.4468552,clothing,Pottsfurt,male,hotmail.com
+124,66,1983-06-30 21:35,2018-02-25 1:09,40,124.963376,beauty,Andersonside,female,hotmail.com
+125,59,1959-05-31 4:21,2020-01-29 7:09,46,1354.786657,beauty,Carriefort,male,gmail.com
+126,58,1984-05-11 9:54,1985-03-02 18:24,36,513.7792073,clothing,New Cindyfort,female,hotmail.com
+127,51,1989-03-26 9:41,2011-09-18 11:52,29,1896.44439,home,New Ellen,female,gmail.com
+128,61,1958-09-07 1:24,1987-12-18 22:46,8,177.938792,books,New Donnamouth,female,gmail.com
+129,26,1973-02-17 0:12,1982-01-27 5:45,20,1521.822042,clothing,Jamesview,male,gmail.com
+130,45,1951-04-01 15:23,2018-12-17 12:06,27,1810.437642,clothing,Lake Jeremy,female,hotmail.com
+131,38,1978-05-14 16:01,2002-01-26 12:19,34,457.7634422,clothing,Lisastad,female,hotmail.com
+132,31,1998-12-12 15:20,1964-03-09 3:53,23,314.8958908,home,Port Kevinmouth,male,hotmail.com
+133,66,1965-04-25 20:34,1980-04-12 22:49,11,1845.80374,books,North Robertview,male,hotmail.com
+134,29,2016-08-23 0:48,2013-09-16 14:10,48,1381.075088,home,Laurahaven,male,gmail.com
+135,25,1996-05-09 1:15,1984-11-08 2:16,42,179.9025471,clothing,Schwartzbury,male,yahoo.com
+136,32,1999-07-22 16:58,1982-07-19 10:06,37,247.4958403,books,Jeannemouth,female,yahoo.com
+137,62,1950-06-19 11:12,2001-05-17 8:10,22,104.7189648,books,Smithside,male,gmail.com
+138,46,1968-10-13 15:20,1988-11-27 22:47,24,601.5230253,beauty,North Madeline,male,yahoo.com
+139,66,1954-08-17 10:13,1998-06-20 21:12,16,658.6124745,beauty,West Erikaburgh,female,gmail.com
+140,23,2008-10-07 21:25,2001-03-09 4:18,2,1744.117386,home,Port Frankfort,male,yahoo.com
+141,56,2022-11-14 9:16,1976-10-18 4:57,14,314.3398847,clothing,West Michaelborough,female,gmail.com
+142,43,1969-04-22 3:42,1955-03-29 21:48,43,913.7806153,beauty,Clarkborough,male,hotmail.com
+143,60,1962-11-18 16:33,1966-11-26 22:45,9,1313.850684,books,West Julia,female,hotmail.com
+144,58,1976-04-14 23:36,2008-11-18 14:54,11,351.8785948,home,South Erica,female,hotmail.com
+145,32,1963-02-06 19:17,1986-07-04 1:59,42,745.6759032,beauty,North Laurenport,female,gmail.com
+146,78,1996-10-18 20:34,1999-12-07 4:46,23,857.7924649,electronics,Sullivanbury,female,gmail.com
+147,60,2005-06-26 0:36,1999-09-21 19:17,34,1577.042028,electronics,Rileyton,female,gmail.com
+148,27,2015-12-28 13:01,1962-04-09 4:12,21,635.9742067,books,South Robert,male,gmail.com
+149,77,1979-06-25 5:51,1984-04-06 6:34,29,1465.446521,electronics,Mannshire,female,yahoo.com
+150,55,2004-02-25 12:00,1963-02-25 17:46,4,1459.210907,books,North Preston,female,gmail.com
+151,22,2005-05-14 2:24,1971-11-22 21:47,11,955.1649836,beauty,Mariestad,male,hotmail.com
+152,76,1965-05-09 6:34,1984-09-21 3:28,24,1264.108966,books,Debrabury,female,yahoo.com
+153,56,1952-12-10 0:00,1995-10-26 6:58,41,1965.306742,home,New Brianbury,male,yahoo.com
+154,58,1990-03-23 14:32,1996-01-26 1:06,34,1761.498231,electronics,East Lucasfurt,female,hotmail.com
+155,32,2009-02-09 23:58,2002-02-01 5:40,13,941.0568803,electronics,West Anthonyville,female,hotmail.com
+156,56,1974-02-21 7:54,2002-04-13 5:41,14,888.2460721,beauty,New Stephanieland,male,yahoo.com
+157,45,1999-01-30 19:35,1958-05-19 17:52,14,1136.996193,electronics,Eugenetown,female,yahoo.com
+158,78,1971-10-17 17:49,2001-11-15 15:28,19,976.2809501,books,West Jose,male,yahoo.com
+159,45,1975-12-14 11:39,2017-02-26 7:24,2,841.1423817,beauty,Lake Laurenmouth,male,hotmail.com
+160,37,1999-10-08 7:30,2018-04-10 23:52,39,213.1741545,clothing,New Kellymouth,male,yahoo.com
+161,39,1985-03-06 21:20,1992-12-04 2:45,49,783.7296496,books,Cartermouth,male,gmail.com
+162,32,2021-08-31 8:02,1992-01-19 14:45,10,1370.924378,home,East Jason,female,yahoo.com
+163,32,1998-05-10 20:15,1957-11-22 23:48,24,1531.692921,clothing,South Meredith,male,gmail.com
+164,45,1997-09-15 10:57,1970-03-07 7:10,22,921.4062429,beauty,South Christineton,male,yahoo.com
+165,76,1952-04-30 21:25,2001-07-07 15:45,18,1377.800171,electronics,Williamhaven,male,hotmail.com
+166,58,1983-09-08 0:35,1969-02-13 23:29,34,596.1249927,books,Aliciachester,female,hotmail.com
+167,28,1952-02-08 19:22,2008-06-14 14:55,10,287.358884,electronics,Jorgemouth,male,hotmail.com
+168,58,2005-04-24 8:54,2001-11-17 14:18,7,1806.648029,beauty,New Daniel,female,yahoo.com
+169,73,1990-12-17 1:16,1985-06-02 6:28,33,1498.568144,electronics,Lake Jeremymouth,female,gmail.com
+170,70,1968-05-25 6:01,1970-11-19 23:50,18,1259.763359,beauty,Lisaburgh,male,hotmail.com
+171,34,2009-03-01 13:31,2023-02-21 8:30,7,1173.320118,electronics,Jasonfort,female,yahoo.com
+172,42,1974-05-28 11:22,1977-12-16 0:03,32,1189.062743,beauty,Turnermouth,female,yahoo.com
+173,56,1961-08-22 11:12,2011-05-07 3:13,24,1334.297558,clothing,South Natasha,male,gmail.com
+174,52,1963-12-07 11:04,1981-05-07 19:28,14,1837.16926,electronics,Mcfarlandburgh,male,yahoo.com
+175,76,1960-07-03 16:28,2015-09-29 17:31,32,1250.365353,books,Aaronmouth,female,yahoo.com
+176,72,2010-11-01 8:15,1978-08-22 9:23,8,388.3309435,clothing,Amychester,male,hotmail.com
+177,34,2018-07-04 9:53,1995-10-31 19:46,16,276.2941047,clothing,Port Jonberg,female,gmail.com
+178,20,1968-09-27 9:11,1979-05-13 16:39,34,375.7789813,clothing,Cardenaschester,female,gmail.com
+179,56,1973-09-08 5:29,2022-02-14 17:01,36,915.8497568,beauty,Lake Kristinastad,male,hotmail.com
+180,30,2014-06-07 22:41,1989-10-09 12:10,16,387.2574598,home,Barnesland,male,yahoo.com
+181,69,1991-12-08 23:31,1958-03-18 9:46,20,783.6064685,books,Johnhaven,male,hotmail.com
+182,42,1995-08-23 9:07,1992-08-31 3:48,49,1141.515266,beauty,East Michael,male,yahoo.com
+183,18,2004-12-09 20:48,1955-11-22 13:13,12,1057.320343,books,Port Josephside,male,gmail.com
+184,70,1958-07-04 8:59,1989-03-25 3:10,12,1646.03057,home,Nunezhaven,male,hotmail.com
+185,51,1953-01-30 13:47,2011-11-22 21:39,23,1105.99875,home,Ianside,male,hotmail.com
+186,19,2016-09-04 2:43,1995-08-10 3:38,20,1171.462133,clothing,South Zacharychester,male,yahoo.com
+187,19,1981-11-22 18:11,1979-08-19 5:40,29,1913.462745,beauty,Evansshire,male,gmail.com
+188,69,2001-06-02 10:24,2019-08-09 7:44,23,1203.908527,clothing,Powellside,female,gmail.com
+189,55,1982-02-25 1:57,1955-10-25 20:46,3,120.0614537,electronics,Lake Anthony,female,yahoo.com
+190,32,1955-03-23 22:13,2007-09-26 19:15,47,1227.055101,clothing,South Shawn,male,gmail.com
+191,64,1960-06-21 9:52,1957-11-24 15:13,22,163.8260472,beauty,Daviston,male,hotmail.com
+192,19,2010-01-16 11:56,2009-03-11 10:41,32,825.7666021,beauty,Port George,female,hotmail.com
+193,63,1967-08-06 12:39,1983-07-29 20:44,11,812.4676773,clothing,Michaelburgh,male,yahoo.com
+194,52,2014-01-18 6:32,2005-03-22 13:14,46,1709.287097,electronics,Savannahfort,male,hotmail.com
+195,29,2016-09-20 0:05,1964-11-15 11:26,23,1825.459511,clothing,Scotthaven,male,hotmail.com
+196,61,1959-10-01 5:30,2016-05-07 1:44,26,1783.046507,electronics,Kerrport,male,yahoo.com
+197,19,1983-05-16 1:33,1974-11-05 2:44,44,1923.138631,home,Lake Christineside,male,gmail.com
+198,41,1977-04-19 2:08,2019-12-30 23:20,17,210.7284219,beauty,New Michaelmouth,female,hotmail.com
+199,76,2015-03-12 20:48,1999-05-04 3:44,2,99.62051368,books,South Sandraville,male,gmail.com
+200,24,1951-05-04 2:04,1972-08-30 11:40,20,1836.763506,electronics,Port Ann,male,yahoo.com
+201,64,1956-08-15 4:22,1986-10-12 19:48,16,719.1773376,home,New Gina,female,gmail.com
+202,77,1972-01-06 19:16,1980-08-11 10:31,8,1418.713653,electronics,Jamesville,female,yahoo.com
+203,55,1971-04-26 16:47,1960-01-13 6:06,27,391.3073701,clothing,Kathrynberg,male,hotmail.com
+204,18,1989-03-21 23:38,2006-07-15 3:51,29,1218.7284,beauty,Lake Saraberg,male,gmail.com
+205,75,2009-06-01 1:43,2005-11-06 20:34,21,753.8552673,home,Jenniferborough,male,hotmail.com
+206,42,1986-11-19 3:58,1993-05-15 5:13,11,938.3672743,books,Port Amanda,female,gmail.com
+207,74,1975-03-22 1:41,1970-05-17 12:53,47,1134.488885,clothing,North Lacey,male,yahoo.com
+208,31,1981-01-22 4:32,1995-01-18 6:15,27,930.9330365,electronics,Cummingsfort,female,yahoo.com
+209,74,1971-07-27 4:12,1968-12-31 17:50,32,690.6874328,clothing,New Michael,female,hotmail.com
+210,72,2010-11-02 21:24,1978-01-24 11:49,11,402.4555082,home,Parsonshaven,female,yahoo.com
+211,52,1985-01-10 16:18,1951-11-06 7:29,3,511.1844667,home,Courtneyview,female,yahoo.com
+212,76,1988-07-21 8:24,1993-01-30 14:10,13,89.97145043,electronics,West Crystal,female,yahoo.com
+213,30,1984-02-20 6:58,1984-10-03 7:51,28,842.0807602,beauty,Vincentbury,male,hotmail.com
+214,44,1968-12-30 14:49,1977-11-14 8:10,8,734.6016357,beauty,Jamesland,female,hotmail.com
+215,41,1954-08-20 13:47,1960-12-15 0:01,36,584.689203,home,Port Sean,male,yahoo.com
+216,31,1983-08-08 17:53,1958-05-23 18:28,32,777.5345505,books,Michelleville,male,hotmail.com
+217,40,2021-04-16 1:03,1982-11-22 21:56,17,1638.573352,books,Seanbury,male,gmail.com
+218,32,1993-01-21 10:39,1950-04-08 13:54,31,416.9091457,electronics,Garnerburgh,female,hotmail.com
+219,71,2008-09-05 5:47,1963-04-20 5:19,22,40.35507164,beauty,Lake Jamesmouth,male,gmail.com
+220,31,1956-03-23 12:38,1956-05-30 6:46,45,882.6818797,home,Dustinhaven,male,yahoo.com
+221,35,1952-11-24 10:12,2004-03-20 0:19,45,860.0442376,clothing,East Tina,male,gmail.com
+222,61,2016-11-02 10:31,2011-03-25 22:50,38,1125.048964,home,Tylerport,female,hotmail.com
+223,26,1996-08-31 17:53,1988-07-02 1:00,33,1399.806056,books,Mcknightstad,male,hotmail.com
+224,74,2011-04-18 14:48,2006-11-25 10:32,31,385.2437971,books,North Andrewborough,male,gmail.com
+225,26,1956-01-20 16:50,2012-06-24 9:50,17,1472.625929,home,Hallville,female,gmail.com
+226,33,1997-08-07 11:22,1999-06-02 11:09,49,338.1754067,electronics,South Billy,female,hotmail.com
+227,68,1965-10-07 4:46,1997-08-27 8:24,12,1938.968738,clothing,Parkburgh,female,yahoo.com
+228,40,1970-09-07 17:49,1976-10-07 18:30,25,421.472425,books,East Michelleborough,female,hotmail.com
+229,30,1986-01-19 11:35,1988-09-14 8:50,22,703.1797354,books,Edwardsland,male,gmail.com
+230,54,1980-08-28 13:51,2015-11-10 14:14,7,1685.125177,clothing,Nunezville,female,gmail.com
+231,64,1998-07-24 10:18,1971-04-03 18:24,13,58.1848708,electronics,North Sean,female,hotmail.com
+232,20,1958-08-14 20:54,2019-06-24 0:31,47,1901.122001,home,Dannyfurt,male,hotmail.com
+233,58,1995-11-16 2:20,1998-07-31 18:58,20,54.76853547,books,East Briannastad,male,yahoo.com
+234,29,1984-01-17 21:09,1974-01-07 16:26,13,1998.147864,books,New Laura,female,gmail.com
+235,73,1986-01-06 8:02,2001-09-25 5:27,11,1883.509443,electronics,Amytown,female,hotmail.com
+236,33,1986-04-03 15:22,2004-03-29 22:28,47,814.5240134,clothing,North Debbieshire,female,yahoo.com
+237,63,2016-12-28 22:12,1950-11-04 17:06,2,1729.334704,clothing,North Brian,female,yahoo.com
+238,20,1974-02-17 13:32,1997-09-28 5:38,39,941.089668,beauty,North Jeffrey,male,gmail.com
+239,45,2022-03-26 21:30,1979-10-07 5:41,26,842.1230269,books,Georgeborough,female,hotmail.com
+240,35,1999-09-04 8:26,2011-02-19 0:40,17,333.3332917,books,Mccarthymouth,male,hotmail.com
+241,48,2022-05-27 6:09,1995-06-10 10:11,6,1313.351569,home,Mcneilshire,female,gmail.com
+242,76,1992-11-30 21:18,2007-10-10 9:23,7,415.6259773,home,South Daisyville,male,gmail.com
+243,19,1985-02-09 6:48,1962-12-20 9:41,2,559.7858509,electronics,Port Lindseyfurt,male,yahoo.com
+244,25,1957-12-09 16:26,1962-04-22 13:49,9,1751.836437,books,Lake Lisaton,male,hotmail.com
+245,36,1976-11-29 12:03,1956-01-30 13:04,27,908.853387,clothing,Cindyfurt,female,yahoo.com
+246,59,2018-07-08 16:44,1958-10-03 23:11,38,823.3209996,electronics,Salaschester,male,hotmail.com
+247,45,1991-07-01 21:38,1953-11-09 15:18,39,238.9933995,clothing,Annachester,female,hotmail.com
+248,65,1962-05-15 6:07,1956-02-17 7:49,2,371.9187365,clothing,Angelatown,female,gmail.com
+249,64,2015-02-08 12:17,1953-10-20 17:18,44,1003.78186,books,Chadton,male,gmail.com
+250,59,1986-01-30 22:16,1958-05-23 15:47,13,1344.44776,beauty,South Jamesport,male,yahoo.com
+251,64,1984-02-27 23:43,1976-11-29 3:03,11,1294.706106,beauty,Brownfort,male,gmail.com
+252,46,1976-06-24 10:13,1958-04-16 12:05,44,399.3365403,home,Lake Stephenview,female,gmail.com
+253,34,2007-05-13 1:25,1974-10-26 20:17,4,155.9859512,home,Gregorymouth,female,yahoo.com
+254,45,1993-03-26 2:40,1979-06-09 23:17,1,745.7001036,clothing,New Mary,male,hotmail.com
+255,77,1998-09-29 23:36,1983-01-15 7:55,13,1028.061318,clothing,Caitlinfort,male,hotmail.com
+256,26,1954-01-07 11:05,1955-03-15 10:06,6,1173.137731,beauty,North Jonville,male,hotmail.com
+257,19,2000-05-29 1:30,1983-11-12 15:11,6,423.1611186,clothing,East Mark,female,gmail.com
+258,43,1990-09-26 11:44,2005-11-14 20:03,45,1115.319345,books,South Scottshire,female,hotmail.com
+259,32,2007-06-22 23:09,1979-08-02 7:59,33,1299.923527,home,East Debra,male,yahoo.com
+260,75,2001-10-21 12:09,2011-09-21 23:02,25,897.0572023,electronics,East Stevenside,female,hotmail.com
+261,77,1964-07-11 22:31,1965-12-24 21:29,12,241.0332651,beauty,South Ashley,female,yahoo.com
+262,63,1965-05-18 12:13,2007-11-24 19:53,41,1669.107717,beauty,New Aaronhaven,female,yahoo.com
+263,79,1989-04-05 1:11,2007-05-02 16:38,47,1507.634072,books,Gutierrezville,male,yahoo.com
+264,47,1975-06-27 16:31,1958-11-03 9:31,5,1348.904343,electronics,Lake Dianeville,male,hotmail.com
+265,35,1953-11-30 5:53,2006-11-03 10:58,39,99.05418501,books,South Joyceshire,female,hotmail.com
+266,46,2018-11-13 16:13,2012-05-18 12:09,14,1264.233248,home,Morganfurt,female,hotmail.com
+267,23,1954-04-20 8:31,1952-03-02 14:14,37,1824.104503,books,Jonesborough,female,hotmail.com
+268,34,1998-08-28 17:02,1983-11-07 3:08,11,59.91380266,beauty,South Clifford,male,gmail.com
+269,31,1996-02-25 22:40,1963-01-02 17:35,24,431.3682489,home,Bellville,male,yahoo.com
+270,32,2020-03-22 9:37,2022-11-20 5:40,37,903.7425695,clothing,Martinbury,male,yahoo.com
+271,24,1952-08-23 1:53,1968-07-24 0:38,28,1425.729279,home,Maciasfurt,female,gmail.com
+272,39,2019-04-07 16:09,1969-12-30 6:35,41,830.9564333,beauty,Taylorchester,male,hotmail.com
+273,65,1999-05-06 6:37,1980-08-20 10:34,6,1822.774662,electronics,South Deannaport,male,yahoo.com
+274,48,1986-03-12 1:57,2017-07-22 16:07,40,1858.155522,books,North Christine,female,hotmail.com
+275,66,1982-10-22 9:05,2003-01-13 2:45,44,1732.035926,clothing,Danielfurt,female,yahoo.com
+276,32,1962-05-20 6:09,2005-09-05 6:28,29,1510.489343,home,South Suzanne,female,gmail.com
+277,75,2018-01-22 9:35,2014-01-05 16:46,9,55.61783343,home,North Jacob,male,hotmail.com
+278,31,1960-06-29 1:44,2012-02-09 16:17,13,1202.108087,books,South Cathy,female,gmail.com
+279,37,1972-08-27 3:07,1977-10-09 3:30,19,821.2480994,clothing,Danielside,male,yahoo.com
+280,69,1971-01-21 6:35,2000-12-09 22:54,21,1865.446765,clothing,North Samuelborough,male,yahoo.com
+281,75,1954-11-05 20:38,1994-08-15 12:52,40,1631.186428,home,New Zachary,female,yahoo.com
+282,65,2005-07-24 15:18,1971-02-02 3:28,46,1597.610177,clothing,Thompsonville,male,yahoo.com
+283,18,2009-08-07 19:47,1972-09-13 7:14,3,771.719973,books,North Kennethberg,female,gmail.com
+284,26,1973-05-20 22:06,1955-06-17 17:28,40,406.1256874,books,West Christinastad,male,yahoo.com
+285,64,1956-07-11 13:09,1964-10-21 13:02,3,1707.934577,beauty,Philipberg,female,hotmail.com
+286,38,1995-04-18 15:34,1963-11-15 14:16,13,1993.56305,clothing,Mendozaton,female,yahoo.com
+287,66,1987-09-29 19:05,1979-05-30 15:00,26,1339.586721,clothing,East Pamelabury,female,yahoo.com
+288,22,1985-05-14 7:47,2007-01-11 14:35,35,83.62037372,electronics,Tylerberg,male,hotmail.com
+289,47,2018-04-23 1:51,2003-09-01 15:07,4,447.0700164,electronics,Meyerhaven,male,yahoo.com
+290,33,1955-02-10 23:29,1994-02-10 17:20,40,231.8161859,electronics,Hendersonchester,female,yahoo.com
+291,48,1966-10-23 8:24,1960-11-04 21:07,13,1256.851662,home,Nicholsfort,male,hotmail.com
+292,59,1966-07-07 15:12,1986-10-21 15:01,15,1766.943939,books,East Christinatown,female,hotmail.com
+293,39,2004-12-06 15:25,1973-12-13 9:59,15,1779.625071,clothing,South Leslieland,female,hotmail.com
+294,54,2009-12-16 21:15,1978-09-12 5:08,2,125.8579934,electronics,East George,male,yahoo.com
+295,56,1989-09-10 1:09,2017-06-25 6:17,45,420.0184417,books,Elizabethmouth,female,hotmail.com
+296,45,1962-08-17 3:09,1990-02-15 6:36,41,443.6788996,books,Lake Michellefurt,female,gmail.com
+297,53,1994-03-24 18:21,2017-07-23 22:22,20,1073.755233,electronics,West Joseph,female,yahoo.com
+298,64,1977-10-20 5:07,1952-09-07 22:24,1,780.9676966,books,South Kevin,male,gmail.com
+299,28,1986-05-02 12:41,1997-09-26 20:08,21,1380.040215,clothing,Castroshire,female,hotmail.com
+300,34,2018-09-01 23:34,2006-06-21 8:15,19,1631.763792,beauty,New Samanthaville,male,hotmail.com
+301,68,1951-11-11 8:05,2006-01-16 20:51,20,479.7155558,books,Bridgetport,male,yahoo.com
+302,75,1962-05-30 0:07,1981-07-03 14:16,14,1788.486802,electronics,Wallacebury,male,gmail.com
+303,73,1972-03-09 8:13,1952-02-07 4:59,28,641.1121195,books,Jimmyburgh,female,hotmail.com
+304,48,1969-11-19 12:03,2017-11-14 0:08,45,1708.542713,home,North John,male,yahoo.com
+305,27,1951-12-26 7:26,2023-04-13 7:26,48,500.5911794,clothing,Port Allisonville,male,gmail.com
+306,74,1965-11-26 16:05,2000-09-13 16:22,2,1886.352615,clothing,North Lindsayview,female,hotmail.com
+307,51,2009-08-27 8:38,1990-09-23 19:10,15,1285.729704,books,Charlesmouth,female,gmail.com
+308,30,2004-04-10 12:04,1991-07-05 17:14,32,672.4472329,beauty,Youngton,male,gmail.com
+309,30,1987-05-23 22:53,1999-04-18 1:29,35,1724.513147,beauty,Cruzland,male,hotmail.com
+310,21,2019-09-20 1:19,1956-09-26 23:21,35,1044.187645,books,Paynefurt,male,hotmail.com
+311,78,1960-07-16 22:01,1977-06-14 20:59,3,1557.340559,beauty,Daniellefurt,male,hotmail.com
+312,56,2021-08-21 20:55,1997-11-27 1:56,38,82.53636065,home,East Janet,male,hotmail.com
+313,34,1959-02-26 5:03,1981-02-21 7:12,1,1853.065064,electronics,Garciatown,male,hotmail.com
+314,52,1974-12-19 7:28,2012-09-14 21:53,33,1873.134706,electronics,West Joseph,female,gmail.com
+315,25,2022-08-15 16:33,2009-03-17 11:20,12,1275.902315,books,Port Seanstad,female,yahoo.com
+316,49,1971-12-05 0:57,2020-08-30 19:24,29,1240.266911,beauty,Amyland,male,hotmail.com
+317,31,1962-02-17 3:14,2002-09-27 7:13,47,1788.264245,home,Hallmouth,male,hotmail.com
+318,55,1987-01-10 12:19,2011-02-20 9:34,8,364.6837004,electronics,Patrickmouth,female,gmail.com
+319,35,1956-08-18 3:38,2018-01-13 0:59,40,1275.646139,clothing,Port Elizabeth,male,gmail.com
+320,76,1973-01-10 14:25,1994-11-20 6:08,23,1145.225698,beauty,Josechester,female,yahoo.com
+321,45,1993-08-24 22:34,2011-11-16 22:43,11,635.4298584,electronics,Thomasbury,male,hotmail.com
+322,75,2000-08-26 7:10,2009-08-03 20:05,42,1456.923964,home,Smithton,female,yahoo.com
+323,52,2021-01-22 8:36,2001-11-29 23:47,20,1310.52289,beauty,West Charlottemouth,female,yahoo.com
+324,34,1962-10-13 22:24,1999-07-07 2:59,13,499.8710722,clothing,Kristenchester,male,yahoo.com
+325,38,2010-05-29 6:00,1954-08-03 19:56,42,1159.814375,beauty,Peterland,female,hotmail.com
+326,56,1955-05-20 21:52,1953-06-08 2:21,31,263.0674571,beauty,Wrightbury,male,hotmail.com
+327,42,1961-02-12 15:14,1978-07-10 23:29,28,1130.765147,beauty,Davidton,male,gmail.com
+328,49,2005-04-13 14:36,2019-04-01 14:08,9,1158.215875,clothing,Haydenland,female,hotmail.com
+329,23,1964-11-11 18:43,1997-06-13 9:09,5,528.5817782,clothing,North Sarahborough,male,hotmail.com
+330,18,2000-11-16 21:03,1992-05-29 17:38,2,1308.235923,clothing,Petersenbury,female,hotmail.com
+331,44,2008-02-27 14:40,1986-03-13 9:58,49,113.1343938,beauty,West Jesse,female,gmail.com
+332,40,2015-11-18 3:41,2000-04-18 0:44,29,1328.140998,clothing,Jenniferchester,female,hotmail.com
+333,36,1972-01-20 8:05,1969-03-04 14:51,14,1791.159531,home,Lisashire,female,hotmail.com
+334,26,1952-06-25 2:29,1972-08-31 11:14,1,1463.436585,books,Lake Jamietown,male,gmail.com
+335,25,1957-07-24 11:39,1972-11-16 7:00,15,1715.012784,electronics,Schneidermouth,male,gmail.com
+336,41,1952-08-05 12:29,2005-05-06 18:37,44,1912.653146,electronics,Lake Vanessa,female,hotmail.com
+337,40,1984-10-15 9:09,1955-08-29 8:36,32,537.4103378,books,Sueview,male,gmail.com
+338,77,1978-01-23 12:01,2000-06-17 18:51,12,90.66943394,books,Hillburgh,male,gmail.com
+339,59,1994-11-16 3:02,2019-12-26 10:02,23,609.7004885,electronics,Tanyamouth,female,yahoo.com
+340,78,1972-04-14 9:42,1972-02-22 6:29,7,1262.045412,books,West Stephen,female,gmail.com
+341,25,1989-04-10 21:57,2014-07-04 9:17,29,860.5788973,electronics,Gonzalezborough,male,hotmail.com
+342,31,2019-12-11 17:10,1954-12-01 1:49,11,61.90439717,electronics,West Robertshire,male,yahoo.com
+343,19,1969-12-26 0:49,1962-04-20 10:27,47,937.2797503,books,Kellyville,male,gmail.com
+344,42,1975-10-23 4:17,2013-05-09 12:27,46,361.8416401,beauty,New Jodyside,male,gmail.com
+345,33,1962-01-05 21:41,2020-08-20 9:08,10,978.9915247,home,New Kimberlyborough,male,gmail.com
+346,41,1968-09-18 4:56,2018-07-14 21:13,24,1216.238706,clothing,Sanchezview,female,gmail.com
+347,48,1993-02-15 17:20,2012-03-14 14:19,15,448.2659156,electronics,East Alejandrobury,female,yahoo.com
+348,76,1988-11-26 10:48,1955-04-19 8:11,45,880.0238121,clothing,Michelleborough,male,hotmail.com
+349,41,1993-02-18 21:52,1999-07-28 2:19,47,687.0607304,electronics,Elizabethfort,female,hotmail.com
+350,71,2015-06-22 7:21,1991-08-30 9:55,15,802.9214845,books,North Ashley,female,yahoo.com
+351,71,1970-10-25 14:08,1967-07-03 20:51,23,796.1358188,clothing,Riosbury,male,gmail.com
+352,31,1955-01-22 0:32,1953-09-29 16:39,3,1520.863315,home,Sarahton,male,yahoo.com
+353,37,2009-09-05 20:44,1988-05-13 13:53,30,98.24493216,books,New Johnside,male,gmail.com
+354,62,2015-01-14 16:05,2000-07-26 12:20,46,167.8599893,electronics,Garciafurt,female,gmail.com
+355,76,1970-08-19 17:09,2005-12-21 8:15,10,1450.173202,clothing,West Jennifer,male,hotmail.com
+356,27,2005-03-01 23:25,1994-02-10 9:44,40,248.9609775,home,East Courtneyfort,male,hotmail.com
+357,50,2002-01-22 20:47,1999-09-09 15:21,32,362.0178026,electronics,East Harold,male,yahoo.com
+358,45,2013-12-14 22:56,1963-10-12 14:04,49,425.6070517,clothing,Christinamouth,male,hotmail.com
+359,51,1962-11-01 22:02,1952-05-18 1:22,24,1970.259419,home,New Charlesview,female,gmail.com
+360,30,1974-05-10 15:26,1960-09-27 18:26,27,1458.243422,electronics,Danielchester,male,gmail.com
+361,54,1957-04-16 3:07,2014-03-05 0:49,19,1761.261862,beauty,South Carolside,female,hotmail.com
+362,42,1988-04-10 15:57,2005-04-12 16:23,30,1725.800915,clothing,Tonyafort,male,yahoo.com
+363,64,1978-06-18 22:21,2018-06-13 2:02,3,1444.09641,clothing,Heatherfurt,male,yahoo.com
+364,65,2020-11-18 16:53,1965-09-25 20:04,42,376.3265844,electronics,Micheleberg,male,yahoo.com
+365,79,1987-06-10 17:59,1956-04-03 5:52,19,1372.628258,home,New Stephanie,male,gmail.com
+366,56,1975-01-26 10:37,1993-03-07 14:09,34,26.85892929,books,Ellisfort,male,gmail.com
+367,33,1970-06-24 14:04,1964-09-01 8:46,45,58.79274517,books,Lake Jaredview,female,gmail.com
+368,53,1997-02-19 11:12,1982-09-03 3:10,29,503.3541369,home,Williemouth,male,gmail.com
+369,48,2023-04-14 23:02,1980-07-09 4:41,27,1472.313577,home,Rossville,female,gmail.com
+370,25,1960-01-16 13:59,1980-04-27 16:13,11,21.67447218,books,West Angelica,male,gmail.com
+371,28,1997-11-15 2:17,2002-06-25 12:11,44,1783.47197,beauty,East Lisaside,female,gmail.com
+372,66,1973-02-13 18:28,2015-03-15 2:54,12,1877.677318,books,South Tracy,male,gmail.com
+373,65,2008-04-09 1:20,2009-04-18 23:16,45,645.8172699,beauty,Lake Codystad,male,hotmail.com
+374,45,1965-10-26 15:37,2011-06-23 13:44,49,1429.350643,books,Lake Williechester,female,gmail.com
+375,28,2001-08-23 10:23,1995-07-07 19:07,9,671.7180429,clothing,Kristentown,female,yahoo.com
+376,55,2020-09-02 2:25,2007-09-17 1:15,21,1728.543855,books,Lake Timothy,female,gmail.com
+377,62,2019-02-05 17:53,2017-04-28 13:22,30,798.2573752,clothing,South James,female,yahoo.com
+378,67,1986-05-19 8:30,2010-04-22 16:59,12,471.6945016,beauty,Dominguezside,male,gmail.com
+379,36,1964-10-05 15:48,1951-10-23 10:55,31,807.4055005,home,Fernandoport,female,hotmail.com
+380,46,1954-10-16 0:18,2007-11-11 8:13,44,1415.620118,clothing,Simschester,female,hotmail.com
+381,42,2006-09-09 5:03,2010-02-02 19:10,11,1301.948552,beauty,Samanthaburgh,female,gmail.com
+382,19,1986-09-16 8:39,1984-09-10 11:33,42,281.7897315,electronics,Camposmouth,female,gmail.com
+383,63,1974-12-21 8:27,2008-12-03 20:11,11,506.3332767,books,New Kimberlyside,female,yahoo.com
+384,40,1965-03-04 20:30,1964-08-31 5:16,7,88.41451656,books,Hallshire,male,hotmail.com
+385,50,2003-06-23 7:22,1974-10-25 15:03,36,815.0068033,home,Bryanmouth,female,gmail.com
+386,72,1964-08-02 14:48,1979-04-25 6:24,10,1379.165665,electronics,Dustinstad,male,hotmail.com
+387,58,2021-09-25 1:21,2003-10-14 2:45,12,165.3067717,electronics,Owenstown,female,gmail.com
+388,36,2019-06-04 14:24,2014-08-30 13:54,30,509.4447316,beauty,Charlesfurt,male,hotmail.com
+389,65,1973-04-28 0:34,1988-10-18 10:34,27,1947.630423,home,West Stevenshire,male,gmail.com
+390,74,1971-12-03 3:53,2013-06-20 13:37,21,1242.57468,electronics,Jessicamouth,male,hotmail.com
+391,19,1969-11-20 1:16,1993-11-03 18:31,34,1132.568674,beauty,Port Nicholas,female,gmail.com
+392,25,2010-05-17 7:15,1976-09-07 3:13,13,37.62943269,electronics,Lake Sherry,male,hotmail.com
+393,29,2013-04-06 15:40,2009-05-03 15:53,31,1173.185126,clothing,West Johnville,male,gmail.com
+394,26,1983-04-15 10:20,1965-05-31 15:09,19,1017.910485,clothing,Alexisburgh,female,yahoo.com
+395,52,1985-06-12 6:10,1951-11-15 3:29,7,1472.021009,books,New Michaelberg,male,yahoo.com
+396,37,1984-02-27 19:16,1961-08-30 8:55,11,493.5098367,books,Hartmanburgh,male,hotmail.com
+397,59,1951-12-14 1:45,1971-07-10 11:50,12,1237.440705,books,Lopezberg,female,yahoo.com
+398,67,1996-09-22 8:31,1994-02-09 8:15,44,1174.929349,home,Russellstad,female,yahoo.com
+399,41,1985-10-30 0:53,1981-11-18 14:39,7,1494.293127,books,Hawkinschester,female,gmail.com
+400,34,1965-08-12 20:43,1991-02-14 7:11,41,1172.499069,beauty,Richmondfurt,male,yahoo.com
+401,55,2000-03-31 8:36,1983-05-16 8:22,29,693.2850643,books,Lindastad,female,yahoo.com
+402,57,2016-04-30 19:18,2013-04-04 19:55,43,1097.156692,clothing,Port Peter,female,gmail.com
+403,51,2003-05-05 2:27,1977-02-04 18:13,34,881.4082375,clothing,West Joyce,male,hotmail.com
+404,43,1955-02-28 6:30,2012-08-30 22:51,17,1979.279891,books,Kaylaborough,female,gmail.com
+405,38,1955-10-23 19:09,2013-08-02 21:27,33,960.1394901,home,West Donnachester,female,gmail.com
+406,39,1978-10-18 22:06,1976-06-25 0:44,11,694.6968053,electronics,Lake Richardview,female,yahoo.com
+407,79,2003-11-13 9:49,2006-05-04 23:01,3,811.1307106,books,South Garrett,male,hotmail.com
+408,69,1955-08-21 3:53,1989-11-27 2:53,11,698.4470061,home,North Laurastad,female,yahoo.com
+409,51,2004-11-14 12:55,1991-01-31 20:53,19,1219.73942,home,New Whitneyburgh,male,hotmail.com
+410,50,1998-12-14 23:41,1991-04-28 14:52,34,268.3460543,home,West Marissa,female,hotmail.com
+411,47,1990-10-31 4:42,1994-09-20 4:52,6,1096.689978,clothing,Heathport,female,gmail.com
+412,32,2010-11-29 2:51,2009-05-31 18:56,44,1391.171323,books,East Devin,female,gmail.com
+413,58,1976-02-22 6:11,2013-09-17 23:47,49,1704.989734,books,Sarahville,male,gmail.com
+414,56,1996-04-17 19:42,2009-05-26 23:29,26,1603.253416,home,South Brittney,female,hotmail.com
+415,65,1974-06-23 4:23,2019-05-23 15:05,3,940.9436553,books,North Ruben,female,hotmail.com
+416,79,1991-01-01 10:30,2020-11-13 14:33,32,1414.404494,clothing,Davistown,male,hotmail.com
+417,44,2013-08-05 0:01,2009-05-01 11:03,8,618.7781625,clothing,Lopezburgh,male,yahoo.com
+418,69,1997-05-15 1:58,1987-06-12 10:04,41,1030.099795,beauty,North Cody,female,yahoo.com
+419,60,2017-09-26 6:18,1989-12-09 19:16,45,1939.162224,beauty,Ryanshire,female,hotmail.com
+420,34,1974-09-25 18:33,1952-03-28 23:46,26,1121.010166,beauty,Reevesberg,female,hotmail.com
+421,46,1952-11-22 11:54,1989-06-01 18:16,1,1496.665961,books,East Sheri,male,gmail.com
+422,47,1965-03-23 10:00,1956-01-14 4:20,23,1149.991144,electronics,Carterside,female,hotmail.com
+423,39,1967-07-30 20:45,1994-12-17 8:49,3,571.1933344,home,South Catherinefurt,female,gmail.com
+424,63,1976-06-08 9:00,1994-03-10 11:35,23,303.8780257,clothing,Nicolechester,female,gmail.com
+425,30,2015-12-01 13:15,1972-11-03 8:16,31,1714.200294,electronics,South Sue,male,yahoo.com
+426,44,1960-03-20 0:13,1987-03-13 6:16,42,157.6582077,electronics,Kingmouth,male,yahoo.com
+427,60,1972-09-07 1:02,1997-09-01 11:09,8,619.2248157,clothing,New Helenmouth,male,yahoo.com
+428,34,1954-12-31 22:34,2017-06-13 11:11,47,759.6530661,beauty,North Sheila,male,hotmail.com
+429,48,1968-07-06 14:57,1975-01-28 3:04,8,1664.89663,clothing,West Donald,female,yahoo.com
+430,25,1978-10-13 15:10,1994-03-30 23:10,38,1081.728645,home,Petersmouth,female,hotmail.com
+431,75,1972-02-01 18:36,1981-08-29 22:15,28,681.2517293,home,Lake Victorborough,male,gmail.com
+432,55,1961-01-03 15:50,1996-09-06 1:46,15,1253.06913,beauty,Brownchester,female,yahoo.com
+433,50,1955-05-21 12:43,1992-12-25 2:42,45,1513.04387,books,Marquezchester,female,hotmail.com
+434,25,1975-09-16 8:22,2016-11-05 18:23,18,893.4666786,clothing,Andreaside,female,yahoo.com
+435,40,1951-12-14 6:18,1994-06-11 9:41,32,941.344802,home,Rossside,female,yahoo.com
+436,19,1969-02-26 16:17,2000-04-22 16:54,44,843.7117745,beauty,West Stephanie,female,yahoo.com
+437,60,1983-07-02 22:43,1978-01-07 6:19,14,791.6230771,home,Kochshire,male,gmail.com
+438,70,1975-01-05 8:36,1978-11-30 21:08,4,1485.87957,electronics,West Benjaminchester,female,hotmail.com
+439,28,2003-09-18 0:36,2008-02-11 13:22,34,966.1431124,electronics,Port Kelseymouth,female,yahoo.com
+440,23,1967-08-04 22:16,1976-08-12 3:12,45,1536.341827,home,Johnsonburgh,male,hotmail.com
+441,53,1996-05-12 16:46,1955-10-02 21:36,12,1362.209804,books,Bryantmouth,male,gmail.com
+442,58,1986-03-04 22:00,2000-07-07 3:03,11,1582.56438,electronics,West Jennifer,male,gmail.com
+443,65,1959-04-11 19:53,1972-10-08 17:36,32,418.4389989,beauty,Shawport,female,yahoo.com
+444,64,1981-03-19 10:40,2001-11-13 17:38,11,639.5827544,books,Port Yvetteberg,female,yahoo.com
+445,68,1956-10-12 5:04,1962-05-07 12:46,46,966.5200021,books,Bennettshire,female,yahoo.com
+446,58,2010-01-09 0:25,2000-09-16 20:56,19,36.17942495,beauty,Katherinechester,male,hotmail.com
+447,33,2006-04-02 6:00,1957-12-22 6:02,33,581.3091739,books,Port Lisa,female,yahoo.com
+448,72,1971-11-12 5:59,1968-05-26 21:49,30,1312.071886,beauty,Shepherdview,female,hotmail.com
+449,71,2005-07-04 11:32,2021-03-17 12:27,19,480.0244089,books,Hallhaven,female,gmail.com
+450,69,2015-03-17 2:23,1967-12-23 19:43,11,718.1925211,electronics,Glenmouth,male,gmail.com
+451,64,1988-04-28 12:41,1952-12-12 14:16,33,38.68469917,home,East Joshuaport,female,hotmail.com
+452,45,1974-12-31 22:01,1955-07-18 22:30,46,1596.187371,electronics,Port Nathaniel,male,gmail.com
+453,46,1991-02-02 21:09,1960-07-12 22:24,39,1597.758315,electronics,Batesfurt,female,gmail.com
+454,49,2005-01-06 7:07,1963-08-19 11:09,33,1742.249723,books,Johnsonland,male,hotmail.com
+455,54,1994-03-25 21:11,1969-06-25 8:12,32,869.1499191,electronics,Theodorebury,female,gmail.com
+456,40,1960-04-13 6:13,2017-04-04 17:17,24,1300.028683,electronics,Lake Dianafort,male,hotmail.com
+457,54,1984-10-22 20:50,2001-01-02 9:13,10,906.4945907,beauty,Brownburgh,female,gmail.com
+458,48,1953-11-16 16:52,1985-07-27 19:21,26,1894.962197,clothing,North Adrienne,female,hotmail.com
+459,56,1992-06-14 21:23,1993-04-12 18:17,37,1030.237696,electronics,Rebeccafurt,female,hotmail.com
+460,25,2014-01-07 18:55,1969-02-20 20:36,22,278.4401012,electronics,Berryshire,male,yahoo.com
+461,22,1950-09-25 15:23,2010-04-04 10:12,14,1046.528943,books,North Kelseyville,male,yahoo.com
+462,23,1988-03-11 4:31,1963-11-01 15:51,8,1284.041525,electronics,Port Colin,female,gmail.com
+463,32,1985-10-17 1:37,1984-06-16 23:25,38,107.9315962,home,South Michelleview,male,yahoo.com
+464,18,1976-06-15 14:50,2006-09-21 22:41,12,1168.469475,electronics,North Angela,female,gmail.com
+465,27,2004-08-09 4:03,1977-05-11 22:09,6,1516.844637,beauty,Lake John,female,gmail.com
+466,31,1953-09-30 23:15,2004-02-03 8:02,42,1381.680459,beauty,Benjaminchester,female,gmail.com
+467,53,2013-07-21 12:34,2017-12-22 22:21,17,1329.35672,beauty,Richardtown,male,yahoo.com
+468,75,1958-05-01 16:17,2008-05-02 8:56,19,312.0990716,electronics,Port Michelle,male,hotmail.com
+469,57,1986-03-14 10:49,2018-10-07 8:51,42,1579.87018,home,Elizabethberg,male,gmail.com
+470,18,2017-03-01 11:43,1965-01-19 15:00,45,479.1551365,beauty,Woodhaven,female,yahoo.com
+471,52,2019-10-13 5:40,1983-07-09 0:58,19,1941.897503,electronics,Port Krystal,male,gmail.com
+472,33,1973-04-03 3:09,1974-01-19 18:43,5,1070.36845,books,East Peterland,female,gmail.com
+473,28,1959-08-02 7:59,1968-12-31 2:14,30,1760.128586,electronics,Riveraton,female,yahoo.com
+474,43,1981-05-24 20:46,1978-02-09 1:36,25,1804.901154,clothing,Schultzbury,female,hotmail.com
+475,70,1974-09-01 16:35,1965-11-03 1:19,31,1900.920744,home,Port Thomas,male,gmail.com
+476,70,2004-03-10 23:26,2020-07-02 0:02,7,156.3365005,beauty,West Richardmouth,female,yahoo.com
+477,22,1957-08-27 8:26,1968-06-20 12:26,46,1948.196241,beauty,Port Michaelhaven,male,hotmail.com
+478,75,1985-04-27 2:54,1965-05-31 6:32,24,1144.153907,clothing,Port Michelle,male,gmail.com
+479,35,1964-05-12 18:06,2015-04-08 22:37,36,703.670391,books,Lake Reginafurt,female,yahoo.com
+480,31,2021-12-13 21:55,1966-01-17 10:28,18,820.0861626,clothing,Hornborough,female,yahoo.com
+481,68,2011-04-16 20:55,1955-04-20 9:18,22,963.5490534,books,Lake Brianview,male,hotmail.com
+482,53,2006-05-20 1:02,1971-02-27 13:01,21,995.2167895,home,West Michael,female,gmail.com
+483,19,2002-08-21 7:24,1970-02-22 10:34,35,1861.817272,clothing,East Crystal,female,gmail.com
+484,78,1985-02-18 9:45,1996-05-25 18:47,49,1060.357459,clothing,Clarkchester,male,gmail.com
+485,29,2019-12-27 3:58,1980-02-10 16:33,49,1469.870686,clothing,New Steven,male,hotmail.com
+486,21,1963-07-17 2:44,1992-06-30 12:06,1,1628.003965,beauty,Reedmouth,female,yahoo.com
+487,65,1986-01-09 2:55,2021-11-12 1:40,29,203.2193887,electronics,Port Lauren,female,gmail.com
+488,70,1950-04-05 0:06,1983-07-13 2:48,15,1052.931014,electronics,New Sarahport,female,gmail.com
+489,36,1962-09-29 12:32,1994-01-09 8:38,2,757.6676708,clothing,South Jose,male,yahoo.com
+490,20,1988-02-27 4:34,1960-07-07 12:11,49,839.1048037,home,Lake Annaburgh,female,hotmail.com
+491,41,1983-10-31 19:05,2002-03-28 8:42,33,517.187509,home,North Angela,female,hotmail.com
+492,72,1991-11-13 23:22,1985-07-27 6:25,37,297.202517,home,North Jennifer,male,hotmail.com
+493,54,1982-06-01 13:18,1985-12-24 4:09,14,1656.784174,home,Rosechester,female,yahoo.com
+494,44,1968-10-03 0:25,1991-01-18 3:25,2,622.0005512,beauty,Courtneybury,male,hotmail.com
+495,54,1963-08-02 20:14,1957-08-18 2:48,15,1485.740135,clothing,Marcusside,female,hotmail.com
+496,18,1976-07-30 9:06,1973-06-14 12:07,5,1417.241788,books,Greeneborough,female,gmail.com
+497,46,2002-02-19 13:33,1972-10-29 8:05,21,817.3073368,home,Lake Brittney,male,yahoo.com
+498,58,1994-10-29 0:36,1970-07-10 0:47,8,392.3877985,electronics,East Gina,female,yahoo.com
+499,29,2001-09-19 1:17,1959-07-30 23:47,15,1919.793419,electronics,Port Meganberg,male,hotmail.com
+500,21,2016-06-10 8:21,1978-09-04 9:03,23,601.3771939,home,Josephburgh,male,yahoo.com
+501,21,1999-08-26 16:56,1993-02-08 4:20,4,756.0810563,clothing,Medinaville,male,hotmail.com
+502,23,1988-02-23 2:56,1994-06-14 23:29,38,755.846439,electronics,Port Jacobstad,male,hotmail.com
+503,56,1983-11-03 8:02,1997-07-15 10:01,34,526.4056891,books,Kennethmouth,male,yahoo.com
+504,55,1997-07-25 14:04,2005-11-30 20:22,28,663.1707509,home,Turnerland,female,gmail.com
+505,72,1979-01-22 10:16,1980-02-26 9:08,21,1059.667451,electronics,East Robert,male,gmail.com
+506,44,2000-09-03 0:20,1979-03-22 5:12,1,1453.974884,electronics,Caldwellside,male,gmail.com
+507,79,1982-08-20 17:47,1988-04-02 11:50,27,87.40161375,clothing,North Amberton,male,hotmail.com
+508,57,2008-02-14 4:11,1976-04-04 22:13,36,460.008013,beauty,Nicolehaven,female,gmail.com
+509,21,1995-12-11 9:35,1968-07-16 23:54,40,136.1902839,home,East Patricia,male,gmail.com
+510,32,1964-03-04 17:03,2016-10-09 3:16,18,1057.794424,beauty,Youngfurt,female,gmail.com
+511,60,2005-02-10 0:22,2004-08-06 21:12,6,1808.74645,home,Thomasburgh,female,hotmail.com
+512,79,2005-09-09 18:45,2006-04-21 0:42,26,1333.503936,clothing,North Hannah,male,gmail.com
+513,37,1953-11-24 9:09,2017-10-20 18:55,8,806.8966017,electronics,Westfurt,male,gmail.com
+514,51,1975-07-07 13:47,2018-11-07 2:19,29,1223.298415,clothing,West John,female,hotmail.com
+515,46,1985-02-12 1:53,1957-01-24 18:35,29,1103.870928,home,New Joannabury,female,hotmail.com
+516,52,1985-08-10 11:58,1987-11-21 21:58,1,1560.716655,clothing,Whiteheadbury,male,hotmail.com
+517,75,1993-09-25 8:48,2010-12-17 15:29,14,44.58113598,clothing,East Heatherland,male,gmail.com
+518,25,1969-03-28 6:21,2005-07-09 2:17,13,429.2889603,beauty,East Rickyport,male,gmail.com
+519,20,2005-04-01 22:08,1967-03-26 1:09,26,1163.226235,books,Stevensland,female,gmail.com
+520,22,1985-11-02 16:51,1981-05-10 16:01,36,1319.794604,books,Chavezfurt,female,yahoo.com
+521,42,2021-08-18 2:28,1961-10-03 23:18,48,1096.45286,books,Callahanside,female,gmail.com
+522,53,2010-05-12 7:59,1977-03-04 4:11,21,1605.890799,clothing,Ramosview,female,yahoo.com
+523,52,1992-07-29 5:35,1998-12-15 10:45,10,1122.865754,books,Jenniferport,female,gmail.com
+524,38,2022-04-21 11:31,1965-10-08 18:02,21,1598.968927,electronics,Johnshire,male,hotmail.com
+525,30,2006-06-06 5:53,1967-05-21 17:42,3,1262.132199,beauty,Lake Vickie,female,yahoo.com
+526,76,2006-09-21 10:06,1998-08-08 16:02,7,1730.331959,beauty,Andrewstad,female,yahoo.com
+527,40,1973-07-11 11:34,1957-12-18 2:36,47,1036.737198,electronics,Georgeville,female,hotmail.com
+528,20,1997-09-01 11:02,2015-01-09 21:31,21,286.4980003,books,Lake Elizabeth,female,hotmail.com
+529,54,1986-12-18 0:16,2010-11-08 19:40,16,1377.842204,books,Port Danielle,male,yahoo.com
+530,51,2022-12-16 18:47,1955-01-13 7:47,11,417.8251119,home,Robertmouth,female,hotmail.com
+531,48,1970-07-05 15:02,1992-04-28 3:40,8,466.155966,beauty,New Tammyview,male,gmail.com
+532,56,1988-08-26 14:36,1986-10-15 2:08,43,797.7954525,books,Cruzfort,female,gmail.com
+533,42,1958-11-01 12:21,1996-04-03 15:48,8,1790.821582,books,Terrystad,male,gmail.com
+534,29,2007-02-27 22:30,2005-03-04 0:31,18,89.75912608,electronics,Horneton,female,yahoo.com
+535,78,2008-08-20 18:03,1950-01-23 2:11,35,347.9609288,books,New Anthonystad,male,gmail.com
+536,33,2016-05-27 22:21,1958-06-03 16:01,2,1231.796104,home,New Carl,female,gmail.com
+537,73,2003-05-28 9:23,1999-01-23 6:13,45,580.3480353,beauty,Nelsonstad,male,hotmail.com
+538,54,1988-11-26 5:30,1961-07-02 20:34,17,1387.601333,electronics,Lake Troyland,male,hotmail.com
+539,36,1969-10-11 21:23,2022-02-27 15:07,12,1995.288434,clothing,West Ericton,female,yahoo.com
+540,32,1980-05-16 11:44,1989-01-06 9:19,34,1897.890111,electronics,Blacktown,female,yahoo.com
+541,68,1995-10-18 3:22,2015-09-09 15:44,25,1167.695341,electronics,East Robynfurt,female,yahoo.com
+542,64,1992-04-06 9:49,1986-03-28 5:51,47,969.2547779,electronics,East Markfurt,female,hotmail.com
+543,65,1972-08-06 6:33,2007-07-26 12:09,9,1112.859392,books,East Karen,male,hotmail.com
+544,18,2022-06-20 17:34,1983-11-02 14:51,4,112.5039812,home,Danielburgh,female,yahoo.com
+545,43,1959-06-01 0:29,1954-07-20 20:29,8,1700.551755,home,Garyberg,male,yahoo.com
+546,46,1962-10-18 2:35,1953-06-14 10:17,46,610.6709247,beauty,Mccannhaven,female,hotmail.com
+547,52,2015-04-15 8:36,1997-12-04 0:14,15,399.367001,electronics,Nathanview,male,hotmail.com
+548,19,2012-08-30 10:04,1962-05-24 6:54,45,839.0403999,books,Chavezborough,male,gmail.com
+549,30,2018-03-09 9:02,1989-04-23 15:47,8,31.7911464,electronics,Port Heather,female,yahoo.com
+550,23,1982-08-27 7:07,1950-04-23 5:38,5,1380.511281,books,Lake Danielle,female,hotmail.com
+551,55,1959-03-23 3:01,1981-12-09 16:24,41,339.302674,books,Walkerburgh,male,hotmail.com
+552,31,1994-10-09 17:10,1985-05-09 7:25,33,153.7283392,clothing,East Allison,female,yahoo.com
+553,31,1980-01-28 13:31,1957-08-14 20:51,14,996.6268433,clothing,Port Michele,female,hotmail.com
+554,48,1998-04-20 13:56,2009-12-17 10:44,23,990.0402627,books,South Jeannestad,female,yahoo.com
+555,44,2015-05-17 3:49,2015-12-08 21:58,16,809.0615411,beauty,North Kaitlynland,female,gmail.com
+556,23,2003-07-05 23:57,2016-10-25 12:24,3,545.6970359,home,West Davidburgh,male,yahoo.com
+557,53,2001-12-22 4:46,2002-10-20 20:43,12,909.8061981,home,Kelseyville,female,yahoo.com
+558,27,2022-01-18 20:00,1952-12-04 20:01,27,308.074705,beauty,Chadborough,female,hotmail.com
+559,45,1973-05-18 21:43,1959-06-15 17:01,46,1954.171887,electronics,Tylermouth,male,hotmail.com
+560,28,1986-11-27 16:54,1958-01-07 6:43,10,619.1321349,clothing,Bennettfurt,female,yahoo.com
+561,78,2006-12-18 11:46,2016-09-07 17:45,42,285.4276085,clothing,Karenside,female,hotmail.com
+562,60,1971-09-14 15:43,2003-08-11 4:00,33,1734.409763,books,Michaelberg,female,gmail.com
+563,70,2017-01-11 21:09,1977-10-03 18:23,11,794.0945494,beauty,New Jillview,female,hotmail.com
+564,31,1958-02-26 23:51,2009-07-01 3:09,42,1592.65063,clothing,East Lisashire,male,gmail.com
+565,51,1954-12-16 21:40,1958-09-02 20:06,49,700.141888,clothing,North Kimberly,male,hotmail.com
+566,32,2020-02-10 23:56,1996-12-11 23:27,48,1737.862813,electronics,Amandaland,male,hotmail.com
+567,46,1975-05-19 18:38,1971-08-01 19:14,3,438.2141903,electronics,Lake Pamelaborough,female,yahoo.com
+568,75,1995-04-08 13:15,1969-01-20 15:07,24,1908.466407,books,Boydmouth,male,hotmail.com
+569,27,1982-05-09 13:59,1973-11-04 1:20,36,1855.860166,home,Taylorfurt,female,yahoo.com
+570,44,1997-04-09 18:58,2020-02-21 10:24,44,175.6224732,home,Port Danielleport,female,yahoo.com
+571,18,2008-03-31 16:54,1964-03-26 15:52,8,1620.750259,clothing,Bernardton,female,gmail.com
+572,35,1996-04-06 6:20,1993-10-16 14:51,40,506.0646677,beauty,Lake Heidiview,male,gmail.com
+573,18,1950-03-30 23:25,1995-09-10 21:39,47,1972.502813,beauty,Annaton,male,yahoo.com
+574,40,2016-04-05 17:07,1975-10-04 20:01,22,1150.518206,home,Davisberg,male,hotmail.com
+575,67,1997-05-11 2:35,1990-07-29 18:57,6,634.4768064,home,East Chad,female,yahoo.com
+576,46,2016-08-07 14:57,2021-03-31 3:22,42,1764.058508,home,Raystad,male,hotmail.com
+577,44,1999-10-28 8:31,2001-10-03 2:50,11,1037.062212,electronics,Ramirezberg,male,hotmail.com
+578,65,1976-01-05 0:30,2008-09-10 6:31,20,1003.218025,electronics,New Frankstad,female,yahoo.com
+579,74,1981-05-06 11:26,2016-10-31 15:14,24,1262.428974,books,North Kellyside,male,gmail.com
+580,40,2002-12-04 14:43,2007-12-02 6:00,46,1316.528068,beauty,Philipville,female,yahoo.com
+581,76,1980-09-23 9:36,1980-05-28 1:46,10,908.2283068,books,Edwardton,male,gmail.com
+582,32,1981-03-26 22:28,1994-07-29 3:40,12,471.3922834,beauty,West Angelastad,male,gmail.com
+583,76,1994-08-09 4:03,2006-07-20 22:03,26,1634.617042,home,Emilychester,female,yahoo.com
+584,63,2010-02-04 13:34,1950-03-02 23:03,17,303.4678013,books,Bradleyside,male,yahoo.com
+585,69,2020-08-18 17:10,1965-04-05 3:48,6,567.7534616,electronics,Lake Miguel,male,gmail.com
+586,46,1997-06-24 2:39,1960-11-16 2:19,27,904.1795608,electronics,Saundersmouth,female,hotmail.com
+587,41,1981-03-01 20:09,1955-07-17 11:56,4,1545.068109,clothing,Wilsonmouth,female,yahoo.com
+588,75,1995-04-02 15:28,1995-06-15 22:11,23,1599.611371,beauty,North Michaeltown,male,yahoo.com
+589,71,1954-10-18 11:14,2010-10-20 17:27,21,340.0218043,beauty,Lake Erin,female,yahoo.com
+590,47,2001-03-19 21:29,1999-10-04 5:34,35,1015.161082,beauty,Lake Tonyahaven,male,yahoo.com
+591,31,1986-09-23 1:19,1974-04-13 17:53,13,948.842243,beauty,Ashleymouth,male,gmail.com
+592,66,1959-06-30 14:56,2007-04-17 1:33,14,122.478987,electronics,Lake Johnland,female,gmail.com
+593,49,2000-03-31 5:51,1985-09-25 4:29,10,508.9784145,clothing,Port Samuel,male,gmail.com
+594,49,1960-04-16 16:01,2012-10-29 11:09,4,1705.254842,books,East Amymouth,female,hotmail.com
+595,21,1972-07-13 7:12,1966-10-24 16:53,32,733.8452656,electronics,East Jon,male,gmail.com
+596,79,2011-01-31 18:30,1978-05-28 5:47,10,1668.349793,clothing,Howardview,female,gmail.com
+597,68,1985-07-23 23:46,2021-01-20 17:06,36,1137.201639,beauty,Rodriguezhaven,female,gmail.com
+598,34,1974-01-02 20:32,2013-06-29 17:14,25,1009.060756,books,Reedchester,male,yahoo.com
+599,35,1998-05-09 14:06,1997-07-21 15:43,37,1809.104555,electronics,Patriciaborough,male,hotmail.com
+600,26,1986-08-08 17:40,1970-12-05 3:44,20,1260.260853,beauty,New Maryburgh,female,yahoo.com
+601,48,2016-11-24 10:18,1966-02-16 8:54,45,1229.434625,beauty,Gonzalezville,male,yahoo.com
+602,43,1960-05-29 22:20,2020-08-15 13:16,40,509.3759495,electronics,Port Jeffreymouth,male,yahoo.com
+603,20,1993-07-19 11:48,2003-01-16 17:04,3,407.184505,clothing,Bryanshire,male,yahoo.com
+604,72,1987-11-16 17:39,1952-11-14 4:06,26,573.2098056,clothing,Maryport,male,hotmail.com
+605,55,2017-11-23 5:35,2014-08-31 17:41,23,1646.953378,clothing,Ryanberg,male,yahoo.com
+606,65,1972-02-06 17:00,1968-11-22 0:59,5,1744.024049,beauty,Mendozaburgh,female,yahoo.com
+607,74,1951-06-24 16:15,1994-08-17 1:55,49,201.3547115,beauty,Ryanland,male,gmail.com
+608,66,1956-08-10 13:38,1995-02-14 11:47,24,420.9801842,electronics,East Thomas,female,hotmail.com
+609,23,1989-02-12 13:19,1997-09-26 5:02,19,902.0221679,books,Port Kaitlyn,female,hotmail.com
+610,53,1967-09-26 18:41,1987-11-13 8:13,8,198.4934778,home,North Lindsayshire,male,hotmail.com
+611,45,2014-09-22 15:28,1975-05-16 3:38,33,1494.599453,electronics,Angelafort,male,yahoo.com
+612,48,1979-06-11 2:32,2015-08-07 9:02,14,1170.84518,home,East Catherine,female,gmail.com
+613,34,2008-05-29 8:34,2019-01-09 14:07,13,1747.571173,home,Lake Lindaborough,male,gmail.com
+614,79,1954-09-27 9:06,2006-04-26 19:59,17,1402.346304,beauty,New Brandonbury,female,gmail.com
+615,43,1954-10-19 10:58,1966-05-09 8:26,19,1331.91438,beauty,Boltonville,female,hotmail.com
+616,74,2021-03-18 4:45,1971-05-10 23:21,40,1566.275256,electronics,East Colton,male,gmail.com
+617,61,1964-09-02 8:59,1985-11-15 12:42,30,1949.958477,clothing,Lake William,female,hotmail.com
+618,20,1994-12-16 22:47,2015-05-06 2:09,30,1813.334336,beauty,Markshire,male,gmail.com
+619,52,2014-09-11 20:18,1957-11-01 0:31,38,98.16227962,clothing,Jonesberg,female,gmail.com
+620,75,1994-05-09 16:36,1982-08-01 22:32,47,691.6666552,books,West Linda,female,hotmail.com
+621,55,1980-11-20 20:44,1970-09-21 17:13,13,1953.137255,clothing,South Christopherland,male,yahoo.com
+622,72,2006-11-10 7:22,2021-03-10 5:57,11,265.4353637,books,Port Laurenchester,male,gmail.com
+623,33,1982-10-26 6:45,1987-04-01 4:05,15,1996.015295,clothing,Myersborough,female,yahoo.com
+624,68,1969-11-12 13:55,1980-08-07 17:16,10,1771.216207,home,Pruittport,male,gmail.com
+625,32,1973-03-01 15:42,1989-02-21 8:40,41,386.4717502,books,Carrtown,male,gmail.com
+626,47,1963-04-03 19:50,1995-11-25 12:41,45,139.125284,home,Port Jimmyview,male,hotmail.com
+627,74,1956-01-03 1:32,1962-05-02 1:34,25,1632.15395,electronics,Maldonadoport,female,hotmail.com
+628,38,1958-03-20 21:21,1999-03-25 19:22,3,1013.590019,home,Lake Cassandra,female,hotmail.com
+629,40,1960-01-21 15:02,1956-05-19 8:04,36,726.3130977,home,Williamschester,male,yahoo.com
+630,23,1980-08-01 3:01,2003-01-23 13:24,29,1597.542155,clothing,New Matthew,male,gmail.com
+631,51,2016-06-12 1:22,1950-10-01 8:35,41,1305.929669,books,Taylortown,female,gmail.com
+632,22,1981-08-07 13:14,1980-06-10 17:35,12,317.3947181,books,Smithburgh,female,yahoo.com
+633,27,1986-01-02 21:12,1966-11-09 3:26,11,670.4104293,home,East Lawrence,female,hotmail.com
+634,35,1960-12-23 2:27,1955-02-21 3:41,24,167.1428941,beauty,Port Steven,male,gmail.com
+635,45,1991-01-04 20:05,2000-08-31 3:17,9,1776.895286,beauty,Port Clarencestad,male,yahoo.com
+636,71,1987-03-14 13:51,2008-09-29 1:04,43,1822.258866,books,Marcport,male,yahoo.com
+637,28,2022-09-01 2:56,1989-09-27 21:15,3,353.2260252,books,North Blakebury,female,yahoo.com
+638,68,1989-02-28 14:20,2010-04-04 10:20,47,1524.615316,books,Rhondastad,female,yahoo.com
+639,76,2006-01-26 7:24,1970-12-05 18:42,9,1181.501519,home,Charlesfurt,male,yahoo.com
+640,65,2006-05-11 19:47,1960-09-02 19:21,28,734.4898668,home,South Christopherland,female,hotmail.com
+641,24,1997-12-02 20:53,1979-12-10 3:11,40,402.5582565,home,Garrettland,male,gmail.com
+642,28,2013-06-23 3:10,1970-01-18 10:32,3,1837.439113,beauty,Ortegaberg,male,hotmail.com
+643,63,1976-12-16 19:53,1986-03-01 12:11,22,1254.154464,books,North Cindyton,male,yahoo.com
+644,49,1979-02-18 21:13,1999-01-31 11:46,12,1902.425936,beauty,New Robert,male,gmail.com
+645,46,2009-07-01 22:08,1988-03-14 6:23,46,1558.824821,electronics,Sanchezburgh,female,yahoo.com
+646,50,2009-01-03 0:28,2002-07-07 18:04,6,811.2700189,clothing,East Reneechester,female,hotmail.com
+647,32,1968-09-04 20:09,2009-12-24 8:58,3,117.3055985,electronics,Manninghaven,male,hotmail.com
+648,50,1995-08-08 5:24,1956-12-06 11:42,13,1335.753079,electronics,Lake Emma,female,yahoo.com
+649,52,2013-03-02 3:13,1977-03-05 15:13,36,1240.548162,clothing,Brendaside,female,gmail.com
+650,38,1998-07-11 11:02,2014-03-19 3:27,10,343.2807354,home,Port Stephanie,male,hotmail.com
+651,66,1971-07-09 23:25,1980-09-16 18:53,30,1777.149468,beauty,South Victoria,male,yahoo.com
+652,78,2007-09-26 4:47,1997-03-11 14:13,21,1053.459435,clothing,Sherylhaven,male,yahoo.com
+653,30,1966-08-12 1:03,1962-06-21 5:38,39,1295.324978,home,East Melindaville,male,hotmail.com
+654,38,1975-10-11 20:58,1993-02-11 23:10,15,45.32042838,electronics,Hawkinsville,female,gmail.com
+655,68,2007-05-22 22:57,2017-11-10 2:11,27,1271.603117,electronics,Port Stacey,male,hotmail.com
+656,18,1988-05-22 15:53,2007-08-30 7:25,42,1064.513981,books,Port Matthew,female,yahoo.com
+657,63,1957-07-11 23:07,2002-01-22 12:23,47,1341.048775,electronics,Contrerasbury,male,yahoo.com
+658,65,1985-08-09 6:54,1954-09-23 3:40,1,1414.18506,electronics,Cunninghamport,female,gmail.com
+659,74,1959-03-20 9:13,1966-11-18 16:04,5,141.6589228,electronics,West Davidton,male,hotmail.com
+660,63,1971-07-23 15:31,2001-06-07 15:30,45,162.225541,clothing,New Thomas,male,yahoo.com
+661,47,1999-09-21 6:35,1963-10-03 8:46,15,885.4327451,clothing,South Spencerfurt,male,hotmail.com
+662,72,1958-02-27 21:35,1990-12-17 15:02,31,456.9525177,clothing,Smithton,female,hotmail.com
+663,39,2007-10-24 3:01,1999-01-13 1:15,38,165.9642075,electronics,East Monica,female,gmail.com
+664,48,2003-04-27 15:56,1985-03-11 19:27,3,714.0295974,electronics,Hernandezton,female,yahoo.com
+665,48,1957-12-04 22:26,1968-09-18 15:03,30,811.6016304,beauty,Williamsburgh,male,gmail.com
+666,41,2020-06-22 9:15,1957-06-15 14:34,26,1166.801386,beauty,New Nicholas,female,yahoo.com
+667,76,1996-03-03 21:19,1959-07-05 7:33,24,1496.812713,beauty,Haynesstad,male,hotmail.com
+668,48,2009-07-24 23:56,2008-04-17 23:14,18,937.8755349,beauty,Lake Jamie,male,hotmail.com
+669,65,2005-08-07 4:03,2020-03-31 20:32,15,1007.845522,electronics,South Edwinberg,male,gmail.com
+670,76,2020-03-11 6:26,2006-01-05 2:27,39,960.4103785,beauty,East Stacyberg,female,hotmail.com
+671,37,2021-03-15 6:25,1956-11-24 11:14,17,1633.222095,home,Andersonside,male,yahoo.com
+672,67,2013-08-03 19:05,2012-10-09 23:19,29,1699.640061,home,Stewartmouth,female,hotmail.com
+673,67,1967-11-07 6:53,1950-06-27 1:55,42,1105.567391,books,Walterstown,male,gmail.com
+674,26,1990-08-18 15:53,1966-10-05 14:26,4,1016.687132,books,Taylorland,male,gmail.com
+675,47,2011-07-26 2:04,2015-02-25 23:41,10,211.3091709,electronics,Velasqueztown,male,gmail.com
+676,40,1972-09-07 16:16,2009-02-05 13:46,46,613.6392052,home,Matthewschester,male,gmail.com
+677,36,1987-12-15 21:23,1960-09-16 22:59,47,1780.3251,home,Robersonburgh,female,yahoo.com
+678,75,2001-06-24 3:10,1997-08-14 9:42,49,1745.344739,home,New Trevor,female,gmail.com
+679,53,1975-02-17 1:32,1956-06-23 9:34,39,705.1123059,clothing,Lake Garybury,female,gmail.com
+680,22,1995-12-09 8:22,2006-04-29 14:01,42,651.7350602,clothing,Katherinemouth,male,gmail.com
+681,49,2006-08-06 0:43,1991-01-08 18:43,5,359.56487,books,Lake Sydney,female,gmail.com
+682,38,2003-07-23 20:01,1990-12-05 22:31,37,790.5930973,beauty,West Susan,female,yahoo.com
+683,48,1956-04-25 9:43,2005-09-21 0:42,28,947.737316,beauty,West Allisonmouth,female,hotmail.com
+684,79,1981-08-20 20:05,2006-12-20 17:02,15,1943.897556,home,East John,male,yahoo.com
+685,61,2021-08-12 5:20,1950-02-05 4:44,36,1407.831696,books,Melissaberg,female,hotmail.com
+686,70,1986-03-22 6:24,1981-06-12 3:09,15,1782.286039,beauty,Claytonshire,male,hotmail.com
+687,71,2004-01-01 9:28,1986-09-14 13:19,23,196.7610836,electronics,Norrisberg,male,gmail.com
+688,41,1958-05-31 14:50,2007-03-18 22:20,40,1862.542921,books,Suttonchester,male,hotmail.com
+689,64,1985-12-21 16:10,1956-06-29 14:17,10,1608.889918,beauty,Port Amy,male,hotmail.com
+690,61,1966-01-10 11:10,2003-05-22 22:32,9,314.9849321,electronics,Lake Hannah,female,yahoo.com
+691,33,1992-12-17 19:17,1964-11-15 16:18,22,1433.969162,beauty,Jeanetteton,female,hotmail.com
+692,79,1979-03-18 0:38,1961-06-17 21:15,47,1399.760623,electronics,Christinastad,male,yahoo.com
+693,60,1962-08-14 3:25,1987-03-15 11:56,31,1193.262896,home,Thompsonmouth,female,yahoo.com
+694,49,1982-07-22 18:14,2015-10-24 13:32,14,1493.842046,books,East Jordan,female,gmail.com
+695,73,2005-06-13 11:40,1966-11-29 4:01,24,1464.46016,beauty,Grayton,female,yahoo.com
+696,19,1999-07-24 0:03,2016-04-16 4:26,8,613.0480841,books,Tonyamouth,female,hotmail.com
+697,77,1950-10-17 0:56,1973-08-24 13:02,7,1244.672174,books,West Kathyhaven,male,yahoo.com
+698,20,2019-07-23 19:26,1964-08-04 3:03,14,1036.841157,books,Williamsshire,male,gmail.com
+699,33,1972-08-07 22:57,1985-02-04 8:46,48,103.2216595,clothing,Port Bridgetmouth,male,gmail.com
+700,73,1972-03-11 15:57,2009-08-14 5:18,15,1204.870352,clothing,Josephport,male,yahoo.com
+701,74,1979-04-07 18:46,1964-09-12 4:44,31,647.7127099,home,East Johnville,female,yahoo.com
+702,47,1983-01-28 19:22,1980-08-29 20:42,22,1987.00484,home,West Paulborough,male,yahoo.com
+703,76,2007-03-15 12:36,1981-08-17 2:03,6,1038.268958,electronics,Moorehaven,female,gmail.com
+704,25,2021-04-08 10:13,1979-10-28 8:46,11,924.1361362,beauty,North David,female,yahoo.com
+705,64,1970-08-22 20:51,2021-08-03 8:16,47,820.8939404,books,Tonyburgh,female,hotmail.com
+706,65,1999-06-20 11:02,2010-02-05 6:44,39,869.782719,beauty,New Kyle,male,gmail.com
+707,59,1963-11-29 18:01,1993-10-15 4:31,39,885.7741578,electronics,New Eric,female,hotmail.com
+708,57,1969-02-20 3:41,2001-10-30 13:56,29,1715.806411,books,East Ryanville,male,gmail.com
+709,63,2000-07-30 3:46,1995-11-18 17:49,20,1715.644323,electronics,Brandonview,male,yahoo.com
+710,31,1951-09-07 4:17,1965-05-26 14:28,10,443.8464132,electronics,Fernandoton,female,yahoo.com
+711,31,1991-06-24 20:56,1957-12-03 13:05,10,104.18064,home,Carpenterhaven,male,hotmail.com
+712,73,2022-01-25 7:30,2006-04-27 1:59,20,507.7019449,clothing,Travisside,male,gmail.com
+713,36,1973-09-11 11:32,1969-11-28 1:43,40,1048.357817,clothing,Jayberg,female,yahoo.com
+714,68,2001-07-27 11:56,1969-11-09 4:54,7,1375.759275,books,Gibsonborough,female,hotmail.com
+715,57,1972-07-13 15:48,1953-01-14 2:04,27,630.3681506,beauty,Cowanfurt,male,yahoo.com
+716,28,2005-11-25 12:04,2007-01-20 13:37,49,1662.059751,electronics,Port Jenniferborough,female,gmail.com
+717,35,1959-09-19 5:19,1982-01-27 22:21,38,1518.80994,electronics,Penningtonton,male,hotmail.com
+718,66,1997-10-01 3:09,2006-04-14 0:06,14,74.11021557,books,Port Patriciaville,male,gmail.com
+719,42,1980-10-01 12:44,1958-08-26 0:40,40,1730.405326,clothing,Copelandfurt,female,hotmail.com
+720,52,2014-09-15 21:11,1957-07-30 5:16,25,1373.451262,books,North Lorimouth,female,gmail.com
+721,27,2003-05-18 7:41,2007-02-02 18:44,39,1435.969289,books,Wilkersonview,female,gmail.com
+722,71,1962-12-02 0:29,2019-03-01 4:37,44,498.6257932,electronics,South Toddshire,male,yahoo.com
+723,41,2014-06-12 5:35,2016-10-27 5:05,14,1039.950634,clothing,Phelpsport,female,hotmail.com
+724,31,1995-09-05 7:30,1981-10-14 6:07,18,418.7965755,electronics,Wagnerland,female,gmail.com
+725,60,2002-03-26 2:21,1967-03-16 19:32,20,949.2890211,clothing,Cortezfurt,male,yahoo.com
+726,47,2021-08-29 19:48,1970-11-27 23:16,2,379.6749145,books,Port Amy,male,hotmail.com
+727,28,2004-06-03 0:51,2011-09-06 16:14,22,1191.452363,clothing,Franklinton,female,hotmail.com
+728,78,1989-05-13 16:09,2008-10-11 11:45,6,952.1239697,home,Harperview,female,yahoo.com
+729,62,1998-09-06 1:18,2019-03-08 19:26,17,1160.142875,clothing,Lake Jason,female,gmail.com
+730,33,1971-06-03 19:38,2005-09-29 3:16,44,1679.46005,clothing,Kristahaven,male,yahoo.com
+731,60,1976-06-13 23:45,1953-01-25 17:51,9,1514.870154,home,Burkemouth,female,hotmail.com
+732,24,1992-06-30 4:55,2008-10-29 23:32,16,727.8752717,books,Brownstad,female,yahoo.com
+733,59,2006-03-04 0:57,2002-04-22 2:40,42,1716.663332,home,Shermantown,female,yahoo.com
+734,78,2012-05-15 14:06,1968-12-02 8:02,35,281.1933765,books,Johnsonport,male,hotmail.com
+735,65,1968-11-12 20:58,2013-11-16 18:04,45,1584.79735,electronics,Mikaylaland,female,yahoo.com
+736,67,2022-04-29 17:03,1999-12-06 4:28,43,1971.477296,clothing,North Dillonfort,female,gmail.com
+737,35,1957-10-31 22:00,1960-12-31 9:27,22,889.4838849,beauty,Ginaside,female,hotmail.com
+738,68,1964-06-18 21:03,1965-10-06 22:11,25,1426.597628,clothing,Rossport,male,gmail.com
+739,58,1997-04-11 1:08,2017-01-25 10:46,9,94.14096503,electronics,Martinezport,female,gmail.com
+740,74,1986-02-24 4:50,2018-11-25 2:01,40,196.3652064,books,Racheltown,female,hotmail.com
+741,37,2013-02-24 19:47,2021-02-15 14:41,4,1606.776932,books,Annaland,female,yahoo.com
+742,41,1989-04-07 1:47,2002-06-01 5:18,36,385.4991574,home,South Michelle,male,hotmail.com
+743,18,1982-06-11 17:33,1997-06-18 2:49,27,1264.017422,electronics,Lake Evelyn,female,yahoo.com
+744,72,1977-01-26 10:12,1965-09-01 18:44,12,1816.443764,beauty,East Luis,male,gmail.com
+745,49,1982-06-19 23:05,2010-02-21 5:37,5,1352.076972,clothing,New Christianborough,male,hotmail.com
+746,21,1983-04-07 3:56,1995-03-21 20:24,38,1292.604082,home,North Mark,female,gmail.com
+747,64,2003-08-29 20:34,1952-06-29 1:53,37,805.8654719,electronics,Harveymouth,female,gmail.com
+748,55,1997-03-14 14:44,1951-06-10 23:21,13,1398.690331,clothing,Lake Benjaminchester,male,gmail.com
+749,46,2012-09-21 1:54,1966-06-19 3:51,38,82.68182267,electronics,Davidborough,male,yahoo.com
+750,47,1981-02-14 0:25,2005-03-08 2:16,34,878.5842517,beauty,North Stephanie,female,gmail.com
+751,66,1975-04-24 14:13,1973-02-28 11:29,42,402.8447553,electronics,East Stephen,female,gmail.com
+752,59,1999-09-06 22:32,2013-01-07 4:58,4,34.28383942,electronics,Melissamouth,male,yahoo.com
+753,36,1976-06-29 9:50,1994-11-06 16:23,23,373.5252348,electronics,Cunninghamport,male,yahoo.com
+754,49,2013-11-11 10:57,1999-01-19 11:52,7,24.98379781,beauty,Carolland,male,yahoo.com
+755,21,2008-04-18 22:13,2001-09-27 4:08,27,1271.256062,clothing,Lake Danielle,male,gmail.com
+756,49,1984-01-18 21:10,1981-02-08 11:07,46,536.5877596,home,Barajaston,female,gmail.com
+757,31,2009-08-11 10:20,2016-06-12 15:35,18,959.2356607,beauty,East Jorgeland,male,gmail.com
+758,67,1950-06-11 12:10,1988-07-23 11:08,19,471.5692107,home,Frankside,male,gmail.com
+759,19,2006-09-02 21:06,1987-04-22 8:45,4,1690.388388,beauty,Hallchester,male,yahoo.com
+760,55,2015-01-17 6:32,1962-07-04 14:07,40,1205.421044,beauty,New Katrinaland,female,yahoo.com
+761,66,1962-04-07 6:39,1991-07-27 6:28,42,1164.498177,beauty,Christophermouth,female,hotmail.com
+762,57,1990-08-26 4:35,2019-07-17 17:46,18,1452.833246,electronics,Port William,male,hotmail.com
+763,23,1967-10-19 9:22,1983-12-02 23:17,18,927.7763822,books,Port Johnview,female,yahoo.com
+764,26,2019-04-19 20:27,1988-02-17 15:13,35,1237.636936,books,North Carriemouth,female,hotmail.com
+765,36,1976-01-28 23:00,1988-06-05 15:24,33,345.62219,clothing,Howardberg,male,yahoo.com
+766,31,1988-03-05 14:10,1987-04-21 8:09,18,1092.995822,books,Lake Kevinshire,female,gmail.com
+767,23,2009-05-09 22:12,1957-07-27 7:37,15,1660.431582,books,New Justin,female,gmail.com
+768,71,1991-11-12 12:46,2003-05-12 12:52,4,1136.018949,beauty,South Evanmouth,female,hotmail.com
+769,25,1995-09-27 7:15,1971-12-31 12:14,10,1230.880321,clothing,Joannaside,male,hotmail.com
+770,49,2022-08-30 14:18,2004-08-26 23:33,16,612.7538466,books,West Robert,male,hotmail.com
+771,18,2013-03-10 20:36,2003-06-02 8:11,32,1578.397434,books,Jasminestad,male,yahoo.com
+772,24,2020-11-09 22:36,1990-07-03 18:29,47,144.9834956,electronics,South Kenneth,female,gmail.com
+773,42,2015-08-14 8:52,2009-12-04 0:34,3,328.3281588,clothing,West Heidishire,female,yahoo.com
+774,53,1967-01-22 3:57,1952-02-20 21:14,31,1114.726453,clothing,West Thomas,male,hotmail.com
+775,49,1967-04-03 9:13,1961-12-17 7:30,28,111.7260923,books,Georgeburgh,female,gmail.com
+776,72,2003-10-31 21:25,1992-10-03 8:54,20,864.4200608,electronics,New George,male,hotmail.com
+777,75,1952-01-06 16:44,1974-01-27 17:48,18,1405.720365,beauty,New Dale,male,hotmail.com
+778,47,1955-06-04 10:14,1977-02-10 17:26,38,1259.763517,books,Torresview,female,hotmail.com
+779,29,1982-02-27 11:21,1985-02-01 17:54,26,356.8763897,beauty,North Melanie,male,yahoo.com
+780,37,2022-05-06 12:51,1981-09-04 14:25,14,362.7162818,beauty,Barberside,male,hotmail.com
+781,35,1957-05-06 19:56,1975-12-15 13:34,14,1564.013428,books,Goodmanfort,male,gmail.com
+782,74,1995-04-22 17:45,1993-07-23 7:54,3,1065.014583,books,East Justinberg,male,gmail.com
+783,52,1985-02-19 13:37,1997-03-25 8:05,46,787.5976942,home,Jonesside,female,yahoo.com
+784,32,1965-02-05 2:40,2019-05-05 17:29,10,751.2617926,electronics,Rodneyview,female,yahoo.com
+785,60,1977-07-28 4:09,1965-11-01 14:10,6,1163.005161,home,Lake Karenmouth,female,gmail.com
+786,28,1988-03-22 0:06,1982-10-12 14:17,2,1779.903579,home,New Shawn,female,hotmail.com
+787,75,1982-06-23 0:30,1985-12-10 12:28,26,1851.262185,books,Lewishaven,male,gmail.com
+788,54,1996-08-12 18:56,1985-02-14 4:03,27,405.2007534,home,Porterfort,male,yahoo.com
+789,69,1996-03-25 21:18,1970-04-30 20:56,22,633.0133467,electronics,New Henryland,female,yahoo.com
+790,53,2004-09-23 21:21,2002-09-22 17:35,13,1200.980837,clothing,Port Shawnfort,female,hotmail.com
+791,29,1985-08-17 12:33,2005-11-27 16:22,47,787.2833037,books,Wilkinsmouth,male,hotmail.com
+792,76,1971-02-16 7:17,1975-03-10 1:36,19,941.434936,books,Collinschester,male,gmail.com
+793,75,2006-01-20 6:02,1955-10-18 14:58,40,635.2625651,home,East Aimeeland,female,gmail.com
+794,55,1997-06-03 3:05,1970-05-29 22:42,8,271.0149925,home,Chasebury,female,yahoo.com
+795,58,1968-08-14 12:49,1953-07-20 23:01,15,1518.010484,clothing,Sharptown,female,yahoo.com
+796,41,2013-03-31 5:42,1984-09-03 10:17,39,1328.216945,electronics,Port Carrietown,male,hotmail.com
+797,20,1979-05-22 7:25,1966-01-01 9:28,28,1965.717974,beauty,Castroshire,female,yahoo.com
+798,29,1997-07-10 17:23,2019-07-22 14:41,10,1295.540812,electronics,Martinburgh,male,hotmail.com
+799,35,2007-08-08 22:35,2003-09-28 8:56,13,1981.132454,home,Christineborough,male,hotmail.com
+800,47,1955-04-18 8:28,1964-11-22 1:58,49,1984.715017,home,Ellisfurt,female,gmail.com
+801,56,2019-12-11 17:59,1968-08-17 6:42,45,652.9383791,clothing,Port Nicholastown,male,gmail.com
+802,22,1974-11-07 4:07,1960-08-04 8:50,38,291.283,home,Collinsville,female,gmail.com
+803,26,1984-04-17 14:45,2014-08-26 1:18,15,352.3544742,books,Stewartmouth,female,hotmail.com
+804,53,1972-09-23 6:06,1996-12-13 15:38,25,625.7737505,beauty,East Suzanne,female,yahoo.com
+805,47,1983-07-28 12:02,1991-03-31 19:06,47,1056.74449,clothing,West Scott,female,hotmail.com
+806,24,1954-06-02 0:11,2013-11-24 6:26,2,351.5439067,home,Tylermouth,female,hotmail.com
+807,49,2016-05-02 5:41,1995-12-03 20:53,48,1825.749696,electronics,Smithville,male,hotmail.com
+808,50,2013-09-03 7:34,1954-05-04 21:15,18,1825.383521,clothing,Danielport,female,gmail.com
+809,60,1987-12-08 16:17,1996-12-17 13:17,3,155.4309922,clothing,New Jenna,male,gmail.com
+810,71,1970-08-04 13:44,1963-12-28 0:42,13,1889.62978,home,Robertfurt,female,yahoo.com
+811,68,2010-01-31 10:32,1999-10-21 17:20,28,848.3175219,electronics,Jessicafort,female,hotmail.com
+812,35,1975-11-09 8:41,1965-09-16 23:50,41,893.7467863,beauty,New Emma,male,yahoo.com
+813,41,2008-02-02 7:29,1975-01-24 17:28,22,1216.09497,electronics,East Michelle,male,yahoo.com
+814,30,2011-04-30 17:20,1973-02-28 7:18,37,1133.741807,home,West Edgarbury,male,hotmail.com
+815,61,1968-02-12 16:51,1982-08-03 20:05,24,926.6872876,beauty,North Sheriburgh,female,gmail.com
+816,33,1966-12-31 6:36,1962-09-23 8:08,8,1273.149536,home,Owenschester,male,hotmail.com
+817,68,2016-11-29 7:34,1977-05-19 22:16,28,956.353463,home,Anthonybury,male,yahoo.com
+818,53,1968-01-09 17:41,1988-06-02 5:42,20,937.068417,electronics,Lake Laurenbury,female,gmail.com
+819,19,2023-02-05 2:19,1956-03-13 12:01,21,1169.093695,home,Grossmouth,male,hotmail.com
+820,52,1953-01-20 5:21,2011-03-09 6:51,12,514.2249033,clothing,East Joseph,female,yahoo.com
+821,65,1986-04-23 22:16,1973-02-05 9:34,46,595.6717386,beauty,East Kathy,female,yahoo.com
+822,63,1958-09-14 8:52,1970-04-07 5:10,21,1769.515217,clothing,Parkerfurt,female,yahoo.com
+823,32,2015-02-12 13:02,1955-09-17 6:00,4,175.786169,books,Port Stevenside,female,gmail.com
+824,57,2006-12-23 20:48,1959-03-30 17:21,31,465.0696019,books,Charlesbury,male,hotmail.com
+825,59,2011-01-24 22:36,1952-12-25 6:18,17,484.5509185,books,Cindychester,male,gmail.com
+826,66,1974-08-17 22:00,1961-04-21 3:34,14,1222.473442,electronics,New Tammy,female,hotmail.com
+827,65,1967-10-03 7:43,2013-11-20 20:46,24,1853.101291,books,Millermouth,male,yahoo.com
+828,46,2018-09-07 10:34,1978-07-13 17:56,37,1214.640007,books,South Davidmouth,female,gmail.com
+829,79,1985-03-13 7:47,1958-02-03 0:44,42,960.543782,electronics,Port Carla,female,gmail.com
+830,29,2015-12-09 0:22,1994-11-27 23:51,38,294.0629899,beauty,Elizabethland,male,yahoo.com
+831,28,2007-03-24 4:13,2018-12-29 20:09,26,128.4405944,electronics,Lake Travis,female,hotmail.com
+832,42,1951-06-06 23:56,1955-10-29 13:17,32,1637.330696,electronics,Port Amanda,male,gmail.com
+833,76,1958-06-16 12:05,1978-02-02 7:02,43,904.8967457,clothing,Paulbury,female,yahoo.com
+834,59,2017-12-21 6:02,1977-11-24 10:28,48,248.7644971,books,Harrisbury,male,gmail.com
+835,65,2010-09-09 14:14,2021-09-29 19:23,38,38.31429934,clothing,Summertown,female,hotmail.com
+836,75,1992-07-10 22:47,1977-03-27 16:04,33,1757.10484,books,New Courtneyshire,male,yahoo.com
+837,79,1964-04-07 19:33,2009-09-07 21:39,44,875.9559462,electronics,West Rachel,male,gmail.com
+838,60,2009-06-12 16:10,2002-05-08 23:30,41,1773.707016,books,Port Julie,male,hotmail.com
+839,56,1985-08-22 3:59,2016-10-05 15:11,20,854.4092036,books,Marcside,male,hotmail.com
+840,51,1990-03-13 18:41,1970-08-01 1:52,34,133.7401404,clothing,Danielmouth,male,gmail.com
+841,62,1996-05-18 17:59,2012-07-11 17:53,9,843.6786206,home,Port Francis,female,hotmail.com
+842,59,1955-06-08 7:51,2006-03-27 1:43,20,1371.399118,beauty,Beckerport,male,yahoo.com
+843,58,1963-05-25 23:39,1965-11-05 7:00,31,1953.760202,beauty,South Kathrynborough,female,yahoo.com
+844,33,2013-11-28 1:39,2004-06-08 23:58,29,590.1347715,books,Port Ashleychester,male,gmail.com
+845,64,1995-10-30 8:04,1950-01-13 12:23,48,871.9879178,electronics,Lake Keithton,male,yahoo.com
+846,19,2014-09-05 6:25,1971-04-04 1:48,24,716.4368979,home,Isaiahton,male,gmail.com
+847,68,1985-05-02 10:03,1969-03-10 2:56,13,1904.562157,home,Austinland,male,gmail.com
+848,20,2019-02-28 4:07,1956-12-24 7:15,29,1380.674602,books,South Arthur,female,hotmail.com
+849,76,1957-10-08 0:16,2018-12-25 16:47,6,1976.978211,books,Hernandezport,female,yahoo.com
+850,25,1964-03-19 11:11,2004-12-19 14:31,17,1730.700365,electronics,Michaelburgh,male,gmail.com
+851,41,1982-10-30 17:31,2001-09-20 4:23,33,1441.818043,beauty,New Rebeccachester,female,yahoo.com
+852,56,1985-09-18 20:44,1961-11-19 19:40,43,947.9041854,home,Savannahstad,male,yahoo.com
+853,79,1955-04-14 20:38,2017-06-16 1:45,10,221.1995316,beauty,Lisachester,female,gmail.com
+854,45,1954-06-06 5:59,1974-10-14 11:58,6,1806.34701,books,Hayesborough,female,hotmail.com
+855,37,1965-12-30 1:05,1974-03-01 20:22,20,997.3162191,clothing,North Julieside,female,gmail.com
+856,71,1968-12-22 22:27,1969-09-17 16:57,40,1116.982792,beauty,Sandraborough,male,hotmail.com
+857,42,2005-03-10 16:41,1986-08-12 14:19,38,1767.897885,books,East Kristen,female,hotmail.com
+858,19,1951-10-12 8:54,1966-05-12 9:01,9,1563.511142,clothing,Phillipfort,female,yahoo.com
+859,67,1965-12-11 21:59,2013-10-17 1:18,13,923.056695,home,East Richard,female,yahoo.com
+860,48,2022-07-28 4:37,1958-08-16 14:06,4,1272.674368,electronics,Wandaberg,male,hotmail.com
+861,39,1995-12-31 8:28,1956-06-04 4:57,14,1461.916083,books,Yvonneburgh,male,gmail.com
+862,21,1951-02-04 17:20,1971-07-27 23:56,21,1398.347901,home,Jonesview,female,gmail.com
+863,25,1975-06-15 15:20,1986-07-21 21:58,48,1584.034949,books,Jonathantown,female,yahoo.com
+864,39,1965-10-11 20:09,1958-06-04 11:45,49,1039.508033,clothing,Nicoleton,male,gmail.com
+865,36,1971-03-23 21:31,1998-08-08 18:00,14,1425.488833,home,Conleytown,male,hotmail.com
+866,53,1951-12-31 1:38,1988-03-16 23:47,12,1858.561529,books,North Monica,female,gmail.com
+867,68,2015-02-06 15:50,1987-02-26 18:39,43,1022.418262,clothing,West Williemouth,female,gmail.com
+868,50,2023-02-09 22:33,1998-10-07 7:16,36,285.9765883,home,New Katherineland,female,gmail.com
+869,50,1952-11-08 11:32,1995-12-21 17:56,49,1221.734067,books,Lake Richardville,male,gmail.com
+870,51,1999-02-16 10:05,2017-09-03 15:49,19,1473.030031,books,Shawhaven,female,gmail.com
+871,30,1961-03-30 16:22,1993-04-19 2:53,20,33.35493222,home,Taylorview,male,hotmail.com
+872,62,1978-05-27 15:25,1984-12-24 18:00,30,1963.845986,books,Allenberg,female,gmail.com
+873,25,1977-07-01 4:03,1982-06-11 5:42,22,917.0223132,electronics,Alvarezland,female,hotmail.com
+874,42,1988-12-14 14:29,1989-12-26 10:09,48,577.1442025,clothing,West Jasonfort,male,yahoo.com
+875,47,1955-04-21 16:10,2008-09-13 11:32,35,198.5709482,clothing,Shorthaven,male,yahoo.com
+876,63,1957-01-01 7:37,1997-05-09 3:15,15,1395.707693,clothing,Peterton,male,gmail.com
+877,18,1962-02-02 17:37,2022-02-13 21:31,30,1161.322232,books,Christopherbury,male,yahoo.com
+878,57,1980-11-30 19:30,1969-01-25 19:25,40,1927.647875,clothing,East Annette,female,yahoo.com
+879,19,2002-04-19 1:38,1984-01-04 11:36,35,724.0998984,clothing,Johnsonmouth,female,yahoo.com
+880,52,1992-05-04 5:18,2011-09-02 19:31,22,727.0325695,home,Summersburgh,female,hotmail.com
+881,31,2022-04-24 18:03,2008-09-27 12:01,20,731.2817103,electronics,Lopezbury,male,hotmail.com
+882,25,1977-01-14 13:40,1967-07-29 18:29,48,1723.325953,books,Brandiview,male,gmail.com
+883,78,1961-01-27 2:21,1968-11-11 16:31,6,578.9544927,beauty,New Sharon,female,yahoo.com
+884,27,1971-10-28 12:00,2000-01-14 14:01,39,1213.36072,beauty,South Crystal,male,yahoo.com
+885,43,2009-04-17 23:00,2018-07-06 8:57,2,1872.222248,beauty,Lake Allisonchester,female,gmail.com
+886,40,2021-08-28 21:06,2005-01-29 13:23,5,22.93989562,books,South Brian,male,yahoo.com
+887,38,1994-02-07 21:50,1956-03-11 7:29,22,1593.141305,electronics,Jasmineport,female,hotmail.com
+888,75,1975-11-11 19:14,2000-12-31 5:39,25,215.7571427,beauty,Robertstad,male,gmail.com
+889,28,1989-12-23 20:21,1957-07-08 13:39,17,926.4277364,books,New Sharon,male,yahoo.com
+890,79,1951-02-28 16:30,1973-04-29 4:35,30,684.4797388,beauty,South Jennifer,female,hotmail.com
+891,31,2017-05-08 10:44,1995-01-21 12:48,17,1803.763997,books,Lake Jenniferland,female,hotmail.com
+892,74,2019-05-01 8:06,1993-12-03 22:03,2,190.5798916,beauty,Richardsbury,female,yahoo.com
+893,62,1983-08-30 12:20,1968-08-14 22:14,24,594.4715136,books,East Amyland,male,gmail.com
+894,47,2020-03-25 14:14,1957-03-31 22:31,35,33.41392175,clothing,Port Sarahberg,female,gmail.com
+895,55,1983-03-23 20:39,1952-09-07 4:05,38,1664.191841,home,Daniellemouth,male,hotmail.com
+896,22,1961-03-01 17:36,2016-05-25 23:35,26,1075.880509,books,Lake Daniel,male,gmail.com
+897,25,2008-06-28 12:00,1997-12-12 12:44,34,198.6215926,home,Barnesville,male,gmail.com
+898,70,2010-08-23 8:14,1994-05-19 16:58,26,470.7263683,electronics,Bartonshire,female,hotmail.com
+899,61,1987-07-19 3:57,2004-10-12 16:18,18,799.7287445,clothing,East William,male,hotmail.com
+900,50,1996-05-27 2:25,1993-03-31 16:01,34,555.8759419,home,Justinhaven,male,gmail.com
+901,50,2013-12-07 1:38,1967-05-21 18:50,6,1288.04449,beauty,Nicolemouth,female,hotmail.com
+902,66,1993-11-23 23:56,1959-01-23 7:49,24,1893.53116,beauty,North Lisa,female,yahoo.com
+903,42,1961-01-18 14:00,1986-01-28 1:51,34,296.5946538,books,Port Ryanview,female,yahoo.com
+904,39,2020-09-07 23:07,1961-09-02 10:10,46,1713.121728,clothing,East Natalie,male,hotmail.com
+905,37,2004-05-28 4:57,1982-03-03 3:13,41,247.9772481,beauty,East Ashleymouth,female,gmail.com
+906,55,1992-06-22 17:03,2002-12-12 8:02,40,1747.172265,books,Grayshire,male,gmail.com
+907,58,2018-05-30 16:18,1959-01-03 18:21,35,1925.417001,clothing,Nelsonville,male,yahoo.com
+908,39,1970-09-06 23:52,2021-06-30 17:48,24,254.4247015,clothing,Andersonton,male,gmail.com
+909,79,1965-01-21 11:35,2011-09-09 3:48,26,368.4209498,home,Lake Marymouth,male,yahoo.com
+910,77,2013-11-13 20:39,1989-02-27 1:02,17,1789.651469,home,North Sarah,female,yahoo.com
+911,40,1995-11-12 3:04,1952-08-17 1:25,44,286.23204,clothing,West Antonio,male,gmail.com
+912,63,1951-08-09 15:21,2003-06-27 12:27,22,1137.51109,home,Port Kevin,male,yahoo.com
+913,26,2017-10-13 19:05,1999-03-30 18:26,37,212.4604835,books,North Sandra,female,gmail.com
+914,37,1983-01-22 12:54,1964-03-02 0:01,21,1494.737554,beauty,Whitneyside,male,yahoo.com
+915,52,1986-12-19 17:33,1950-12-18 22:44,43,1397.384301,electronics,Jordanview,female,yahoo.com
+916,68,2010-03-03 4:36,1973-01-14 22:16,43,729.2119941,clothing,Patelshire,female,yahoo.com
+917,79,1998-05-09 16:49,1978-06-15 16:56,2,983.7250997,books,Russellshire,female,yahoo.com
+918,70,1970-07-13 16:34,2006-10-17 4:36,33,942.4302777,beauty,Lisastad,female,yahoo.com
+919,29,2019-07-15 19:04,1982-12-08 0:28,43,744.5188929,beauty,Mcgeetown,female,gmail.com
+920,77,1989-11-23 6:20,2006-01-24 14:51,4,1615.645608,home,South Kyle,male,gmail.com
+921,56,1994-03-31 3:38,2011-06-08 5:45,25,1859.602443,books,Philiptown,female,yahoo.com
+922,31,2019-02-24 13:33,1969-03-30 17:09,28,1598.373372,clothing,Jenniferton,male,yahoo.com
+923,66,1980-06-25 6:27,2016-08-31 0:46,18,1924.433813,beauty,East Kaylaville,male,yahoo.com
+924,50,2003-03-02 20:33,1951-08-29 3:01,15,1955.790434,beauty,South Thomas,male,hotmail.com
+925,77,1957-12-21 17:05,2002-07-23 14:03,40,299.5261441,books,East Matthewport,female,yahoo.com
+926,20,1958-06-14 18:42,1978-08-05 10:51,35,1449.292387,books,Thomashaven,female,yahoo.com
+927,67,1970-11-05 19:53,1954-04-30 5:31,33,1216.766416,home,Bakerchester,female,hotmail.com
+928,71,2011-02-09 17:49,1978-02-15 8:57,22,447.995049,electronics,Lake Erinport,female,yahoo.com
+929,31,1996-04-24 23:56,1989-06-11 17:21,20,1528.860876,clothing,West Amber,male,gmail.com
+930,54,1983-02-22 1:38,1992-09-30 9:39,47,381.9371283,home,Jordanchester,male,yahoo.com
+931,70,1964-05-02 22:51,1986-08-10 8:09,45,526.0942439,clothing,West Sarah,male,gmail.com
+932,54,1992-09-14 9:50,1954-08-23 9:40,12,1267.176847,beauty,Lake Katiemouth,male,hotmail.com
+933,73,1951-10-20 18:31,1987-03-19 18:21,43,1201.135334,clothing,West Tracyfort,male,gmail.com
+934,73,1957-06-06 1:21,1984-08-06 2:18,15,187.5965184,electronics,North Elizabethburgh,female,gmail.com
+935,66,2000-02-21 20:33,1994-04-18 20:49,37,96.55006375,books,Ronaldside,female,yahoo.com
+936,79,1964-09-21 11:02,1978-04-12 23:28,47,770.9247269,beauty,North Brittany,female,hotmail.com
+937,41,1995-10-08 8:42,1956-07-20 10:54,42,245.2952845,electronics,South Kayla,male,yahoo.com
+938,70,2018-10-30 6:53,1994-08-04 5:39,19,1113.959056,clothing,West Kevinbury,female,yahoo.com
+939,69,1993-10-24 9:55,1976-03-27 13:19,44,550.6988333,home,Aaronview,female,hotmail.com
+940,68,2012-01-21 21:30,2011-06-15 18:32,45,1558.647706,home,North Josephmouth,male,yahoo.com
+941,79,1995-03-21 15:22,1961-02-23 1:45,35,749.6396906,beauty,Huntfort,female,hotmail.com
+942,73,1983-04-29 20:21,2014-02-18 4:52,7,142.5833774,electronics,New Douglasburgh,female,hotmail.com
+943,33,1974-07-21 4:19,1955-05-20 7:18,21,916.6148424,electronics,Heatherland,male,gmail.com
+944,78,2013-01-31 18:54,1991-07-31 11:19,2,1685.128262,home,West Scott,male,gmail.com
+945,61,1963-03-17 13:04,1992-09-13 13:22,3,145.0150939,books,Leechester,female,hotmail.com
+946,66,1970-02-18 1:25,1952-11-28 21:40,26,1809.978126,home,Port Christina,male,gmail.com
+947,54,1996-06-01 4:55,1966-07-26 11:14,45,1606.976725,clothing,Port Brentburgh,male,gmail.com
+948,61,1980-06-19 16:20,1993-09-12 21:24,18,1794.889812,books,Port Sherri,female,yahoo.com
+949,65,1986-01-07 3:37,2001-08-18 0:10,33,1182.603296,beauty,East Kellyland,male,hotmail.com
+950,26,1989-12-06 3:01,1980-03-04 7:51,27,138.1579694,home,Stephensmouth,female,hotmail.com
+951,22,2018-09-06 12:51,1963-09-07 3:38,43,901.8445703,electronics,South Tammy,male,hotmail.com
+952,72,1988-12-02 22:09,1998-06-10 12:32,7,1171.29219,home,Russellmouth,male,hotmail.com
+953,53,1997-03-06 14:57,2023-03-09 20:09,41,1062.63111,clothing,East Shannon,male,yahoo.com
+954,56,2006-10-08 4:40,1950-12-20 2:31,41,194.6548554,beauty,East Kimberly,female,yahoo.com
+955,70,1961-07-04 20:55,1979-01-31 3:03,43,458.543767,clothing,East Larry,male,hotmail.com
+956,55,1975-08-11 16:17,1989-11-26 8:51,5,228.9364432,electronics,Garciafurt,female,hotmail.com
+957,70,1951-02-11 0:48,1987-05-02 18:19,23,584.1122968,clothing,South Rebekahside,female,yahoo.com
+958,44,1977-10-03 13:26,2011-01-18 18:35,4,797.5189889,home,Lawsonbury,male,yahoo.com
+959,62,1968-06-24 19:26,2022-05-03 15:03,38,189.5002951,books,Aaronfurt,female,gmail.com
+960,21,1970-04-27 16:17,1983-07-20 18:23,20,1146.703122,books,East Davidfort,female,gmail.com
+961,34,1995-03-08 17:29,1996-02-21 23:13,30,1723.399979,home,East Shannon,female,gmail.com
+962,49,1951-11-02 5:10,1981-12-01 5:20,41,1432.751807,home,Petersonshire,male,hotmail.com
+963,73,2004-11-18 0:03,1987-12-23 15:22,41,626.0473991,books,Hollyton,male,hotmail.com
+964,33,1977-03-13 3:23,1959-07-05 20:37,16,122.4983925,books,Mcgeeburgh,female,gmail.com
+965,32,2009-05-06 3:47,1983-04-20 17:17,6,1524.298477,books,Lake Malik,male,hotmail.com
+966,24,1976-06-24 22:28,2023-03-28 9:22,5,1461.896821,beauty,Morrowfurt,male,yahoo.com
+967,57,1987-02-20 12:06,1983-10-16 19:26,27,855.7042439,electronics,Michaelstad,female,hotmail.com
+968,53,2012-05-20 15:30,1955-01-17 21:34,4,949.0142808,electronics,New Amanda,male,hotmail.com
+969,77,1997-01-23 23:22,1967-09-29 17:24,15,487.3853728,home,South Matthew,male,gmail.com
+970,57,1953-05-20 2:31,1973-01-15 8:08,20,1381.165403,electronics,Port Mary,female,yahoo.com
+971,32,1988-07-08 7:37,1978-12-18 11:37,21,1081.093098,beauty,Lake Nathantown,female,hotmail.com
+972,26,1996-04-22 9:20,1966-08-13 17:15,19,447.6723781,electronics,Lake Joel,female,gmail.com
+973,36,1965-11-27 2:12,1957-03-21 23:16,47,1582.406728,clothing,East Sherryberg,male,hotmail.com
+974,56,2018-06-29 7:37,1975-09-16 20:29,46,996.4129341,books,Howeshire,female,yahoo.com
+975,51,1951-04-30 9:58,2010-08-31 2:14,20,1755.48608,books,New Rachelhaven,male,yahoo.com
+976,24,2007-11-07 2:26,1979-12-11 5:04,46,431.85788,home,Lake Gloriahaven,female,hotmail.com
+977,52,1980-01-11 16:24,1970-07-27 10:40,38,1741.117391,books,Brianport,male,yahoo.com
+978,57,1998-02-26 8:12,1996-08-13 8:13,46,1517.951562,electronics,North Michaelstad,male,gmail.com
+979,36,1966-12-14 0:34,2022-07-06 22:15,9,337.4671121,books,West Michael,male,gmail.com
+980,47,2011-05-19 2:18,1981-07-23 5:50,1,89.95224808,clothing,Tiffanymouth,female,gmail.com
+981,30,1983-08-15 19:22,2001-02-13 5:32,24,562.1293985,clothing,North Diana,male,gmail.com
+982,36,1981-06-16 9:10,1951-11-26 18:18,22,1304.563186,electronics,North Abigail,male,hotmail.com
+983,73,2004-03-08 18:17,2009-05-20 11:05,5,1176.104173,beauty,New Allison,female,gmail.com
+984,74,1998-01-12 11:34,1962-05-19 15:30,6,1540.949302,electronics,Davisville,male,hotmail.com
+985,51,1972-07-06 23:04,1956-03-14 2:46,29,1374.672606,books,East Jessica,female,yahoo.com
+986,23,1956-03-19 18:35,1976-08-07 6:12,44,1934.354727,clothing,Cherylborough,male,gmail.com
+987,63,1977-07-07 22:19,1982-12-31 9:14,38,1250.413768,beauty,Lestertown,female,gmail.com
+988,65,1994-09-02 18:07,1952-09-16 20:03,2,489.7172111,books,Jordanmouth,female,yahoo.com
+989,59,2008-03-03 11:15,1973-10-23 7:03,16,298.9796308,home,New Joseph,female,gmail.com
+990,32,1963-09-20 7:33,1997-10-10 5:51,26,1985.726285,home,Andrewchester,female,gmail.com
+991,22,1997-10-20 11:37,1996-08-11 7:14,14,1805.832437,beauty,Heidifurt,female,gmail.com
+992,24,2018-05-30 2:24,1977-06-15 2:00,8,1735.178081,clothing,West Lisa,male,hotmail.com
+993,27,1954-05-30 4:19,1950-07-04 9:46,8,1160.042364,clothing,New Keithfurt,female,gmail.com
+994,31,1974-03-28 19:45,1963-05-16 21:25,5,1977.640693,home,Walkertown,male,hotmail.com
+995,28,1993-10-25 13:32,2002-09-02 13:52,1,912.9189957,beauty,Crystalside,female,hotmail.com
+996,69,1994-01-02 1:26,2002-12-06 1:07,48,1395.669474,home,Cynthiaborough,female,gmail.com
+997,35,1957-10-19 19:41,1977-07-19 0:45,45,131.0014159,electronics,North Christopherside,female,gmail.com
+998,49,1970-01-23 0:10,1986-11-01 4:45,38,102.6637091,electronics,Castroland,male,hotmail.com
+999,61,2016-02-26 21:04,1952-01-11 10:28,12,1022.037997,clothing,Salasmouth,female,hotmail.com
+1000,50,1982-02-02 7:25,2010-04-24 10:07,30,333.8737679,clothing,Smithstad,female,yahoo.com
